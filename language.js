@@ -6,7 +6,7 @@ const jsonEnglish = {
   "feature__nav": "Features",
   "reviews__nav": "Reviews",
 
-  "hero_title": "Focused on Adult Vide",
+  "hero_title": "Focused on Adult Videos",
   "watch__title": "Watch Without Worry",
   "watch__desc": "To prevent any potential problems, videos start in a muted state and automatically pause when the app goes into the background.",
   "playback__title": "More Than Just Multi-Screen Playback",
@@ -71,7 +71,7 @@ const jsonKorean = {
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
 
-  "hero_title": "동 감상에 최적화",
+  "hero_title": "야동 감상에 최적화",
   "watch__title": "안전제일! 기본무음",
   "watch__desc": "100번 잘해도 1번 실수하면 끝. 처음 재생시 기본 무음! 백그라운드 전환시 자동 재생 중지",
   "playback__title": "멀티 스크린은 기본",
