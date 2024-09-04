@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
+    <title>Play App</title>
+ 
+    <!-- All Stylesheets -->  
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">  
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">  
+    <link rel="stylesheet" href="assets/css/aos.min.css">  
+    <!-- CSS: Html Designer -->  
+    <link rel="stylesheet" href="assets/css/style.css">  
+
+    
+</head>
+<body> 
+
+         
+    <!-- navigation start --> 
+    <nav class="navbar navbar-expand-lg smart-scroll" id="mainNav">
+        <div class="container position-relative">
+            <a href="" class="navbar-brand p-0 m-0 d-inline-block" aria-label="Play App" title="Play App">
+                <img src="assets/images/logo.webp" width="180" height="136" class="w-auto" alt="Play App">
+            </a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto gap-lg-3 gap-xl-4">
+                    <li class="nav-item"> 
+                        <a href="#hands-free" class="nav-link hands__nav">
+                            Hands-Free 
+                        </a>  
+                    </li>    
+                    <li class="nav-item"> 
+                        <a href="#video" class="nav-link video__nav">
+                            Video
+                        </a>  
+                    </li>    
+                      <li class="nav-item"> 
+                        <a href="#shuffle" class="nav-link shuffle__nav">
+                            Shuffle
+                        </a>  
+                    </li>  
+                    <li class="nav-item"> 
+                        <a href="#gallery" class="nav-link gallery__nav">
+                            Gallery
+                        </a>  
+                    </li>  
+					 <li class="nav-item"> 
+                        <a href="#feature" class="nav-link feature__nav">
+                            Features
+                        </a>  
+                    </li>  
+                    <li class="nav-item"> 
+                        <a href="#reviews" class="nav-link reviews__nav">
+                            Reviews
+                        </a>  
+                    </li>  
+                </ul> 
+            </div>
+            <div class="d-inline-flex align-items-center gap-3 ms-4"> 
+				<select id="language" class="language form-select language__select">
+                    <option value="en">English</option>
+                    <option value="ko">한국어</option> 
+                </select>
+                <button type="button" class="navbar-toggle x collapsed d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>   
+            </div>
+        </div>
+    </nav> 
+    <!-- navigation end --> 
+
+    <main>
+
+        <!-- Header wrapper start -->
+        <header class="header__wrapper pb-5 position-relative">
+            <img 
+                src="assets/images/home/hero-bg.svg" 
+                alt="Bg Image"
+                class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0 thumnail"
+            >
+            <div class="container position-relative z-3"> 
+                <div class="text-center">
+                    <h1 class="text-white fw-bold display-3 hero_title" data-aos="fade-up" data-aos-delay="0">Focused on Adult Videos</h1>
+                    <div class="col-xxl-9 col-lg-8 col-md-8 mx-auto"> 
+                <video class="video" autoplay muted loop>
+                    <source src="assets/images/home/Screen_Record.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+						
+				<img src="assets/images/home/focused-adult-videos.webp" data-aos="fade-up" data-aos-delay="400" class="img-fluid hero__thumb w-100" width="" height="" loading="lazy" alt="" hidden>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Header wrapper end -->
+
+        <!-- App download buttons -->
+        <div class="pb-5">
+            <div class="container">
+                <div class="d-flex gap-3 gap-lg-4 justify-content-center align-items-center">
+                    <a href="https://play.google.com/store/apps/details?id=com.araonesoft.aramultiplayer" target="_blank" class="d-inline-block app__btn" aria-label="Google PLay Store" data-aos="fade-up-right">
+                        <img src="assets/images/home/google-play.webp" class="img-fluid" loading="lazy" alt="Google Play Store">
+                    </a>
+                    <a href="https://apps.apple.com/app/aramultiplayer/id1629544322" class="d-inline-block app__btn" aria-label="App Store" data-aos="fade-up-left" target="_blank">
+                        <img src="assets/images/home/app-store.webp" class="img-fluid" loading="lazy" alt="App Store">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- App download buttons -->
+
+        <!-- Watch wrapper start -->
+        <section class="watch__wrapper py-5 position-relative">
+            <img 
+                src="assets/images/home/promo-bg.webp" 
+                alt="Watch 1" 
+                class="img-fluid position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0" 
+                loading="lazy"
+            >
+            <div class="position-absolute top-0 start-0 w-100 h-100 z-1" style="background-color:rgba(34, 46, 58, 0.61);"></div>
+            <div class="container position-relative z-3">
+                <div class="row g-4 align-items-center">
+                    <div class="col-md-6 text-center text-lg-start" data-aos="fade-right">
+                        <h2 class="display-3 fw-bold text-white mb-4 watch__title">Watch Without Worry</h2>
+						<img 
+                            src="assets/images/home/watch-thumb.webp" 
+                            alt="Watch mobile frame" 
+                            class="watch__mobile__thumb img-fluid w-auto d-hide mb-3" 
+                            loading="lazy"
+                        >
+                        <p class="text-white fs-4 watch__desc">
+                            To prevent any potential problems, videos start in a muted state and automatically pause when the app goes into the background.
+                        </p> 
+                    </div>
+                    <div class="col-md-6 text-center m-hide" data-aos="fade-left">
+                        <img 
+                            src="assets/images/home/watch-thumb.webp" 
+                            alt="Watch mobile frame" 
+                            class="watch__mobile__thumb img-fluid w-auto" 
+                            loading="lazy"
+                        >
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Watch wrapper end -->
+
+        <!-- More Than wrapper start -->
+        <section class="playback__wrapper py-5 position-relative">
+            <img 
+                src="assets/images/home/more-than-bg1.webp" 
+                alt="Watch 1" 
+                class="img-fluid position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0" 
+                loading="lazy"
+            >
+            <div class="container position-relative z-3">
+                <h2 class="display-4 text-center fw-bold text-dark playback__title" data-aos="fade-up">More Than Just Multi-Screen Playback</h2>
+                <p class="text-center fs-4 playback__desc" data-aos="fade-up" data-aos-delay="200">Choose from 1 to 4 screens to enjoy simultaneous video playback on your phone.</p>
+                <div class="text-center pt-4 pt-xxl-5">
+                    <img 
+                        src="assets/images/home/players__thamnail.webp" 
+                        alt="more than mobile frame" 
+                        class="img-fluid" 
+                        loading="lazy" data-aos="zoom-in" data-aos-delay="400"
+                    > 
+                </div>
+            </div>
+        </section>
+        <!-- More Than wrapper end -->
+        
+        <!-- Enjoy Hands-Free wrapper Start -->
+        <section class="pb-5 pt-95" id="hands-free">
+            <div class="container py-md-5">
+                <div class="row g-3 align-items-center">
+                    <div class="col-lg-6 text-center order-lg-2 m-hide">
+                        <img 
+                            src="assets/images/home/enjoy-hands-free-endless-playback.webp" 
+                            alt="Enjoy Hands-Free Endless Playback" 
+                            class="img-fluid" 
+                            loading="lazy" data-aos="fade-left"
+                        >
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        
+                        <h2 class="display-3 fw-bold text-dark my-4 text-center text-lg-start hands_free_title" data-aos="fade-up">Enjoy Hands-Free Endless Playback</h2>
+						
+						 <img 
+                            src="assets/images/home/enjoy-hands-free-endless-playback.webp" 
+                            alt="Enjoy Hands-Free Endless Playback" 
+                            class="img-fluid d-hide mt-3 mb-3" 
+                            loading="lazy" data-aos="fade-left"
+                        >
+						
+                        <p class="fs-4 text-center text-lg-start hands_free_desc" data-aos="fade-up" data-aos-delay="300">
+                            To prevent any potential problems, videos start in a muted state and automatically pause when the app goes into the background.
+                        </p> 
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Enjoy Hands-Free wrapper End -->
+        
+        <!-- UI for Single and Multiple wrapper Start -->
+        <section class="pt-5 pt-95" style="background: #F4F8FB;" id="video">
+            <div class="container">
+                <h2 class="display-4 text-center fw-bold text-dark video_control_title" data-aos="fade-up">UI for Single and Multiple Video Control</h2>
+                <p class="text-center fs-4 video_control_desc" data-aos="fade-up" data-aos-delay="400">You can play, pause, and mute all videos simultaneously, as well as control each video individually. Additionally, you can adjust the sound settings for each individual video.</p>
+                <figure class="mt-4 mt-md-5 mb-0 text-center">
+                    <img 
+                        src="assets/images/home/multiple-video-control.webp" 
+                        alt="UI for Single and Multiple Video Control" 
+                        class="img-fluid" 
+                        loading="lazy" data-aos="zoom-in" data-aos-delay="600"
+                    >
+                </figure> 
+            </div>
+        </section>
+        <!-- UI for Single and Multiple wrapper End -->
+
+        <!-- Auto-Play Shuffle in Playlist wrapper start -->
+        <section class="watch__wrapper py-5 position-relative pt-95" id="shuffle" >
+<!--             <div class="position-absolute start-0 w-100" id="shuffle-section" style="top: -4rem;"></div> -->
+            <img 
+                src="assets/images/home/auto-play-shuffle-inplaylist.webp" 
+                alt="Auto-Play Shuffle in Playlist" 
+                class="img-fluid position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0" 
+                loading="lazy"
+            >
+            <div class="container position-relative z-3">
+                <div class="row g-4 g-md-5 align-items-center">
+                    <div class="col-lg-6 text-center m-hide" data-aos="zoom-in">
+                        <img 
+                            src="assets/images/home/auto-playlist-mobail.webp" 
+                            alt="Auto-Play Shuffle in Playlist" 
+                            class="img-fluid thumnail" 
+                            loading="lazy"
+                            id="shuffleThumbnail"
+                        >
+                    </div>
+                    <div class="col-lg-6 text-center text-lg-start">
+                        <span class="svg__services d-flex align-items-center justify-content-center justify-content-lg-start gap-5 mb-4">
+                            <svg width="108" height="63" viewBox="0 0 108 63" fill="none" xmlns="http://www.w3.org/2000/svg" data-aos="fade-left">
+                                <path d="M0.791252 41.2898C1.05415 50.0638 6.27202 57.5639 14.4074 60.8632C17.0464 61.9422 19.8692 62.5002 22.7202 62.5063C28.37 62.4931 33.7895 60.266 37.8161 56.3028L53.0436 41.5308C53.3239 41.2589 53.6991 41.1069 54.0897 41.1069C54.4802 41.1069 54.8554 41.2589 55.1358 41.5308L70.3631 56.3028C74.3897 60.266 79.8093 62.493 85.4591 62.5063C88.3102 62.5004 91.1332 61.9424 93.7722 60.8632C101.908 57.5639 107.125 50.0638 107.388 41.29C107.582 34.8105 107.582 28.2396 107.388 21.76C107.125 12.9862 101.907 5.48616 93.7722 2.18679C86.2577 -0.86042 78.0347 0.398203 71.8568 5.42306C71.5686 5.65836 71.2034 5.77836 70.8319 5.75983C70.4603 5.74129 70.1089 5.58553 69.8456 5.32272L68.061 3.53787C67.8581 3.33508 67.6014 3.19461 67.3212 3.13306C67.041 3.07151 66.7491 3.09145 66.4799 3.19052C66.2107 3.2896 65.9755 3.46366 65.8021 3.69215C65.6286 3.92063 65.5242 4.19399 65.5012 4.47992L64.1558 21.0745C64.1383 21.2915 64.1681 21.5098 64.2432 21.7142C64.3184 21.9185 64.437 22.1041 64.591 22.2581C64.745 22.4121 64.9306 22.5308 65.1349 22.6059C65.3393 22.681 65.5576 22.7108 65.7746 22.6933L82.3696 21.3481C82.6556 21.3251 82.9289 21.2207 83.1574 21.0473C83.3859 20.8738 83.56 20.6386 83.659 20.3694C83.7581 20.1002 83.778 19.8083 83.7165 19.5281C83.6549 19.2479 83.5145 18.9913 83.3117 18.7884L81.2878 16.7645C81.1199 16.5977 80.9938 16.3935 80.92 16.1686C80.8461 15.9438 80.8266 15.7046 80.8629 15.4707C80.8992 15.2369 80.9904 15.0149 81.129 14.823C81.2676 14.6312 81.4496 14.4749 81.6602 14.3669C83.0032 13.7217 84.4858 13.4218 85.9739 13.4943C87.462 13.5668 88.9085 14.0094 90.1823 14.7821C91.4562 15.5548 92.5171 16.633 93.269 17.9192C94.0209 19.2054 94.44 20.6589 94.4883 22.148C94.6752 28.3699 94.6752 34.681 94.4883 40.9038C94.4359 42.634 93.8815 44.3116 92.8927 45.7324C91.9039 47.1532 90.5233 48.2558 88.919 48.9061C87.3148 49.5563 85.5561 49.726 83.8571 49.3946C82.1581 49.0633 80.5921 48.245 79.3498 47.0396L58.583 26.8931L37.8163 6.74654C31.5142 0.634154 22.5445 -1.11455 14.4074 2.18547C6.27027 5.4855 1.05481 12.9849 0.791252 21.7587C0.596926 28.2385 0.596926 34.8109 0.791252 41.2898ZM13.691 22.148C13.7145 20.411 14.2572 18.7208 15.2493 17.2948C16.2414 15.8689 17.6374 14.7724 19.2579 14.1465C20.8573 13.4667 22.6235 13.281 24.3293 13.6133C26.0351 13.9456 27.6025 14.7806 28.8298 16.0111L43.7102 30.4466C43.8546 30.5866 43.9694 30.7542 44.0478 30.9395C44.1262 31.1247 44.1666 31.3238 44.1666 31.5249C44.1666 31.726 44.1262 31.9251 44.0478 32.1104C43.9694 32.2956 43.8546 32.4632 43.7102 32.6032L28.8295 47.0385C27.6022 48.2688 26.0348 49.1038 24.329 49.436C22.6232 49.7683 20.8571 49.5826 19.2577 48.9029C17.6374 48.2771 16.2415 47.1808 15.2495 45.755C14.2575 44.3293 13.7147 42.6394 13.691 40.9027C13.505 34.6795 13.505 28.3699 13.691 22.148Z" fill="url(#paint0_linear_87_462)"/>
+                                <defs><linearGradient id="paint0_linear_87_462" x1="18.3292" y1="-4.23559" x2="89.85" y2="67.2852" gradientUnits="userSpaceOnUse"><stop stop-color="#2D00F7"/><stop offset="0.052" stop-color="#3B00EF"/><stop offset="0.305" stop-color="#7C00CB"/><stop offset="0.536" stop-color="#AF00AF"/><stop offset="0.736" stop-color="#D3009A"/><stop offset="0.897" stop-color="#EA008E"/><stop offset="1" stop-color="#F20089"/></linearGradient></defs>
+                            </svg>
+
+                            <svg width="71" height="63" viewBox="0 0 71 63" fill="none" xmlns="http://www.w3.org/2000/svg" data-aos="fade-left" data-aos-delay="200">
+                                <path d="M69.6542 47.2351L56.4585 36.2387C55.8031 35.6888 54.8882 35.5789 54.1184 35.9352C53.3443 36.3003 52.8516 37.0744 52.8516 37.9277V44.5256H49.17C46.1174 44.5256 43.3287 42.9773 41.71 40.3909L27.4674 17.6063C24.2344 12.4291 18.657 9.33691 12.5474 9.33691H0.0686035V18.1341H12.5474C15.6 18.1341 18.3887 19.6824 20.0074 22.2688L34.25 45.0534C37.4874 50.2306 43.0648 53.3228 49.17 53.3228H52.8516V59.9207C52.8516 60.774 53.3443 61.5481 54.1184 61.9132C54.4131 62.0496 54.7342 62.12 55.0509 62.12C55.5568 62.12 56.0582 61.9484 56.4585 61.6097L69.6542 50.6133C70.1601 50.1954 70.446 49.5752 70.446 48.9242C70.446 48.2732 70.1601 47.653 69.6542 47.2351Z" fill="#FFA000"/>
+                                <path d="M69.6542 12.0464L56.4585 1.04993C55.8031 0.50451 54.8882 0.390146 54.1184 0.750831C53.3443 1.10712 52.8516 1.88567 52.8516 2.73899V9.33687H49.17C43.0604 9.33687 37.483 12.4291 34.25 17.6062L20.0118 40.3909C18.3931 42.9773 15.6 44.5256 12.5474 44.5256H0.0686035V53.3227H12.5474C18.6526 53.3227 24.23 50.2305 27.4674 45.0534L41.7056 22.2687C43.3287 19.6823 46.1174 18.134 49.17 18.134H52.8516V24.7319C52.8516 25.5853 53.3443 26.3638 54.1184 26.7245C54.4131 26.8608 54.7342 26.9312 55.0509 26.9312C55.5568 26.9312 56.0582 26.7553 56.4585 26.421L69.6542 15.4245C70.1601 15.0067 70.446 14.3864 70.446 13.7355C70.446 13.0845 70.1601 12.4643 69.6542 12.0464Z" fill="#FFC107"/>
+                            </svg>
+                                
+                        </span>
+                        <h2 class="display-3 fw-bold text-white mb-4 shuffle_title" data-aos="fade-up">Auto-Play Shuffle in Playlist</h2>
+						
+						<center>
+                            <img 
+                                src="assets/images/home/auto-playlist-mobail.webp" 
+                                alt="Auto-Play Shuffle in Playlist" 
+                                class="img-fluid thumnail d-hide mt-3 mb-3" 
+                                loading="lazy"
+                                id="shuffleThumbnailResponsive"
+                            >
+                        </center>
+						
+                        <p class="fs-4 text-white shuffle_desc" data-aos="fade-up" data-aos-delay="300">
+                            Plays videos in a playlist one after another in a random order, providing a shuffled viewing experience without manual intervention.
+                        </p> 
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Auto-Play Shuffle in Playlist wrapper end -->
+        
+        <!-- Awesome wrapper start -->
+        <section class="py-5 pt-95" id="gallery">
+            <div class="container my-md-4">
+                <h2 class="display-3 fw-bold text-dark mb-5 text-center awesome_sc" data-aos="fade-up">Awesome Screenshots</h2>
+            </div> 
+            <div class="container-fluid px-sm-0" data-aos="fade-up" data-aos-delay="300">
+                <div class="owl-carousel awesomeSlider">
+                    <div class="item">
+                        <img src="assets/images/home/screen1.png" class="img-fluid thumnail" width="338" height="675" alt="Awesome Screenshots">
+                    </div>
+                    <div class="item">
+                        <img src="assets/images/home/screen2.png" class="img-fluid thumnail" width="338" height="675" alt="Awesome Screenshots">
+                    </div>
+                    <div class="item">
+                        <img src="assets/images/home/screen3.png" class="img-fluid thumnail" width="338" height="675" alt="Awesome Screenshots">
+                    </div>
+                    <div class="item">
+                        <img src="assets/images/home/screen4.png" class="img-fluid thumnail" width="338" height="675" alt="Awesome Screenshots">
+                    </div>
+                </div>  
+            </div>
+        </section>
+        <!-- Awesome wrapper end -->
+        
+        <!-- Features In This App wrapper start -->
+        <section class="py-5 pt-95" style="background: #F4F8FB;" id="feature">
+            <div class="container my-md-4">
+                <h2 class="display-4 fw-bold text-dark mb-3 text-center feature_title" data-aos="fade-up">Features In This App</h2>
+                <p class="text-center fs-4 mb-4 feature_desc" data-aos="fade-up" data-aos-delay="200">This is just a section for listing features.</p>
+                <div class="row g-4 gy-md-5">
+                    <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="100">
+                        <div class="text-center">
+                           <img src="assets/images/icons/Infinite-loop.svg"  class="img-fluid" loading="lazy" alt="Icon">
+                            <h3 class="lead text-dark fw-bold pt-3 mb-0 feature_title_one">Infinite Loop</h3>
+                            <p class="feature_desc_one">Videos will restart from the  beginning once they finish.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
+                        <div class="text-center">
+                            <img src="assets/images/icons/Background-Pause.svg"  class="img-fluid" loading="lazy" alt="Icon">
+                            <h3 class="lead text-dark fw-bold pt-3 mb-0 feature_title_two">Auto Mute & Background Pause</h3>
+                            <p class="feature_desc_two">Videos start in mute by default, and playback automatically pauses when the app goes into the background.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
+                        <div class="text-center">
+                            <img src="assets/images/icons/Multi-Screen.svg"  class="img-fluid" loading="lazy" alt="Icon">
+                            <h3 class="lead text-dark fw-bold pt-3 mb-0 feature_title_three">Multi-Screen Playback</h3>
+                            <p class="feature_desc_three">Enjoy different videos simultaneously</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="100">
+                        <div class="text-center">
+                            <img src="assets/images/icons/Repeat.svg"  class="img-fluid" loading="lazy" alt="Icon">
+                            <h3 class="lead text-dark fw-bold pt-3 mb-0 feature_title_four">AB Repeat</h3>
+                            <p class="feature_desc_four">Set your favorite segment as AB for infinite loop playback. Focus on learning, practicing, or enjoying your favorite scenes.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
+                        <div class="text-center">
+                            <img src="assets/images/icons/Random-Play.svg"  class="img-fluid" loading="lazy" alt="Icon">
+                                
+                            <p class="lead text-dark fw-bold pt-3 mb-0 feature_title_five">Random Play & Playlist</p>
+                            <span class="feature_desc_five">Enjoy random play for a varied experienceand organize videos with the playlist feature forsystematic management.</span>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
+                        <div class="text-center">
+                            <img src="assets/images/icons/Time-Shifted.svg"  class="img-fluid" loading="lazy" alt="Icon">
+                            <h3 class="lead text-dark fw-bold pt-3 mb-0 feature_title_six">Sync & Time-Shifted Playback</h3>
+                            <p class="feature_desc_six">Play the same video simultaneously on multiple screens or with a time difference for a diverse viewing experience.</p>
+                        </div>
+                    </div>
+                </div>
+                    
+            </div> 
+        </section>
+        <!-- Features In This App wrapper end -->
+
+        <!-- Loved By Our Customers wrapper start -->
+        <section class="loved__wrapper py-5 pt-95" id="reviews">
+            <div class="container my-md-4">
+                <h2 class="display-4 fw-bold text-dark mb-5 text-center testi_title" data-aos="fade-up">Loved By Our Customers</h2>
+                <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 col-12 d-flex" data-aos="fade-up" data-aos-delay="100">
+                        <div class="customers__card text-center position-relative p-4">
+                            <img src="assets/images/customers/sarah.webp" class="img-fluid authore__thumb" alt="Sarah L">
+                            <div class="">
+                                <p class="py-3 mb-0 testi_desc_one">Great for multitasking! I can control multiple videos effortlessly. The user interface is very intuitive.</p>
+                                <span class="lead text-dark fw-bold testi_author_one">Sarah L.</span>
+                            </div>
+                            <div class="quote position-absolute">
+                                <img src="assets/images/customers/quote.svg" class="img-fluid" width="100" height="100" alt="quote">
+                            </div>
+                        </div>
+                    </div><!--/.col-->
+                    <div class="col-lg-4 col-md-6 col-12 d-flex" data-aos="fade-up" data-aos-delay="100">
+                        <div class="customers__card text-center position-relative p-4">
+                            <img src="assets/images/customers/emily-r.webp" class="img-fluid authore__thumb" alt="Emily R.">
+                            <div class="">
+                                <p class="py-3 mb-0 testi_desc_two">Amazing app! The video quality is top-notch, and the endless playback feature is a game changer.</p>
+                                <span class="lead text-dark fw-bold testi_author_two">Emily R.</span>
+                            </div>
+                            <div class="quote position-absolute">
+                                <img src="assets/images/customers/quote.svg" class="img-fluid" width="96" height="100" alt="quote">
+                            </div>
+                        </div>
+                    </div><!--/.col-->
+                    <div class="col-lg-4 col-md-6 col-12 d-flex m-hide" data-aos="fade-up" data-aos-delay="100">
+                        <div class="customers__card text-center position-relative p-4">
+                            <img src="assets/images/customers/john-m.webp" class="img-fluid authore__thumb" alt="John M.">
+                            <div class="">
+                                <p class="py-3 mb-0 testi_desc_three">I love the shuffle playlist feature. It keeps my watching experience fresh and exciting.</p>
+                                <span class="lead text-dark fw-bold testi_author_three">John M.</span>
+                            </div>
+                            <div class="quote position-absolute">
+                                <img src="assets/images/customers/quote.svg" class="img-fluid" width="96" height="100" alt="quote">
+                            </div>
+                        </div>
+                    </div><!--/.col-->
+                    <div class="col-lg-4 col-md-6 col-12 d-flex m-hide" data-aos="fade-up" data-aos-delay="100">
+                        <div class="customers__card text-center position-relative p-4">
+                            <img src="assets/images/customers/jessica-t.webp" class="img-fluid authore__thumb" alt="Jessica T.">
+                            <div class="">
+                                <p class="py-3 mb-0 testi_desc_four">The AB repeat function is perfect for my needs. Highly recommend this app for anyone who loves to loop videos.</p>
+                                <span class="lead text-dark fw-bold testi_author_four">Jessica T.</span>
+                            </div>
+                            <div class="quote position-absolute">
+                                <img src="assets/images/customers/quote.svg" class="img-fluid" width="96" height="100" alt="quote">
+                            </div>
+                        </div>
+                    </div><!--/.col-->
+                    <div class="col-lg-4 col-md-6 col-12 d-flex m-hide" data-aos="fade-up" data-aos-delay="100">
+                        <div class="customers__card text-center position-relative p-4">
+                            <img src="assets/images/customers/michael-k.webp" class="img-fluid authore__thumb" alt="Michael K.">
+                            <div class="">
+                                <p class="py-3 mb-0 testi_desc_five">The mute and volume control for individual videos is a fantastic feature. Very useful for customizing my viewing experience.</p>
+                                <span class="lead text-dark fw-bold testi_author_five">Michael K.</span>
+                            </div>
+                            <div class="quote position-absolute">
+                                <img src="assets/images/customers/quote.svg" class="img-fluid" width="96" height="100" alt="quote">
+                            </div>
+                        </div>
+                    </div><!--/.col-->
+                    <div class="col-lg-4 col-md-6 col-12 d-flex m-hide" data-aos="fade-up" data-aos-delay="100">
+                        <div class="customers__card text-center position-relative p-4">
+                            <img src="assets/images/customers/david-b.webp" class="img-fluid authore__thumb" alt="David B.">
+                            <div class="">
+                                <p class="py-3 mb-0 testi_desc_six">The app works flawlessly on both my phone and tablet. I appreciate the seamless integration and responsive design.</p>
+                                <span class="lead text-dark fw-bold testi_author_six">David B.</span>
+                            </div>
+                            <div class="quote position-absolute">
+                                <img src="assets/images/customers/quote.svg" class="img-fluid" width="96" height="100" alt="quote">
+                            </div>
+                        </div>
+                    </div><!--/.col-->
+                </div><!--/.row-->
+            </div><!--/.container-->
+        </section>
+        <!-- Loved By Our Customers wrapper end -->
+
+        <!-- Not available wrapper start -->
+        <section class="py-5">
+            <div class="container my-md-4">
+                <h2 class="display-4 fw-bold text-dark mb-md-3 text-center available__title" data-aos="fade-up">Not available</h2>
+                <p class="text-center fs-4 available__desc" data-aos="fade-up" data-aos-delay="200">I want to tell user these features are not supported.</p>
+                <div class="px-md-5">
+                    <div class="row g-4">
+                        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                            <div class="text-center mt-4">
+                                <img src="assets/images/icons/Web-Browse.svg" class="img-fluid not_available_logo" loading="lazy" alt="Icon">
+                                <h3 class="lead fw-bold text-dark mt-4 available__desc__one">No Web Browser</h3>
+                            </div>
+                        </div><!--/.col -->
+                        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="text-center mt-4">
+                                <img src="assets/images/icons/YouTube.svg" class="img-fluid not_available_logo" loading="lazy" alt="Icon">
+                                <h3 class="lead fw-bold text-dark mt-4 available__desc__two">No YouTube</h3>
+                            </div>
+                        </div><!--/.col -->
+                        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-delay="300">
+                            <div class="text-center mt-4">
+                                <img src="assets/images/icons/Streaming.svg" class="img-fluid not_available_logo" loading="lazy" alt="Icon">
+                                <h3 class="lead fw-bold text-dark mt-4 available__desc__three">Not Streaming Yet</h3>
+                            </div>
+                        </div><!--/.col -->
+                        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-delay="400">
+                            <div class="text-center mt-4">
+                                <img src="assets/images/icons/Downloaded-Videos.svg" class="img-fluid not_available_logo" loading="lazy" alt="Icon">
+                                <h3 class="lead fw-bold text-dark mt-4 available__desc__four">Only Pre DownloadedVideos</h3>
+                            </div>
+                        </div><!--/.col -->
+                    </div><!--/.row -->
+                </div>
+            </div><!--/.container -->
+        </section>
+        <!-- Not available wrapper end -->
+        
+    </main>
+    <!-- Footer wrapper end -->
+    <footer class="py-5 position-relative" data-aos="flip-up">
+        <img 
+            src="assets/images/home/footer__bg.webp"
+            alt="Watch 1" 
+            class="img-fluid position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0"
+            loading="lazy"
+        >
+        <div class="position-absolute top-0 start-0 w-100 h-100 z-1" style="background-color:rgba(34, 46, 58, 0.61);"></div>
+        <div class="container mt-md-5 position-relative z-3">
+                <h2 class="display-4 fw-bold text-white text-center mb-4 app__title" data-aos="fade-up">Download App</h2>
+                <p class="text-white fs-4 text-center app__title__desc" data-aos="fade-up" data-aos-delay="300">
+                    To prevent any potential problems, videos start in a muted state and automatically pause when the app goes into the background.
+                </p> 
+                <div class="d-flex gap-3 gap-lg-4 justify-content-center align-items-center py-5">
+                    <a href="https://play.google.com/store/apps/details?id=com.araonesoft.aramultiplayer" target="_blank" class="d-inline-block app__btn" aria-label="Google PLay Store" data-aos="fade-right">
+                        <img src="assets/images/home/google-play.webp" class="img-fluid" loading="lazy" alt="Google Play Store">
+                    </a>
+                    <a href="https://apps.apple.com/us/app/aramultiplayer/id1629544322" target="_blank" class="d-inline-block app__btn" aria-label="App Store" data-aos="fade-left" data-aos-delay="300">
+                        <img src="assets/images/home/app-store.webp" class="img-fluid" loading="lazy" alt="App Store">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="copyright__wrapp py-5 pb-1 pt-3">
+        <div class="container mb-md-4"> 
+            <div class="text-center mb-0 text-dark fw-normal">
+                <div> 
+                    <span class="d-inline-flex align-items-center gap-3">
+                        <svg height="24" viewBox="0 0 512 512" width="24" xmlns="http://www.w3.org/2000/svg" id="fi_9068642"><g id="Layer_2" data-name="Layer 2"><g id="_01.mail" data-name="01.mail"><circle id="background" cx="256" cy="256" fill="#2196f3" r="256"></circle><g fill="#fff"><path d="m255.94 268.64-134.94-67.32v133.76a25.66 25.66 0 0 0 25.59 25.59h218.82a25.66 25.66 0 0 0 25.59-25.59v-132.35z"></path><path d="m256.06 243.36 134.94-65.86v-.58a25.66 25.66 0 0 0 -25.59-25.59h-218.82a25.66 25.66 0 0 0 -25.59 24.67z"></path></g></g></g></svg>
+                        <a href="mailto:araonesoft@gmail.com" class="maill__desc d-inline-flex">araonesoft@gmail.com</a>
+                    </span>
+                </div>
+				  
+                <p class="mb-0 mt-3 copyright__desc">Copyright &copy; 2024 Ara Multi Player. All Rights Reserved.</p> 
+				
+            </div>
+        </div><!--.//container-fluid-->
+    </div><!--.//copyright__wrapp-->
+    <!-- Footer wrapper end -->
+
+    <!-- Back To Top Button -->
+    <button onclick="topFunction()" id="backTop" class="btn backTop justify-content-center align-items-center rounded-circle p-0 bg-primary" title="Go to top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 24 24"><path fill="#292929" d="M11.5 19V6.921l-5.792 5.792L5 12l7-7l7 7l-.708.713L12.5 6.921V19z"/></svg>
+    </button>
+
+    <!-- JS: All Vendors --> 
+    <script src="assets/js/jQuery.min.js"></script>  
+    <script src="assets/js/bootstrap.bundle.min.js"></script>  
+    <script src="assets/js/owl.carousel.min.js"></script>  
+    <script src="assets/js/aos.min.js"></script>  
+    <!-- JS: Designer Script -->
+    <script src="assets/js/script.js"></script> 
+    <script src="language.js"></script> 
+     
+</body>
+</html>
