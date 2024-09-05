@@ -72,7 +72,7 @@ const jsonKorean = {
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
 
-  "hero_title": "성인용 비디오 전용",
+  "hero_title": "성인 비디오 전용",
   "watch__title": "안전제일! 기본무음",
   "watch__desc": "100번 잘해도 1번 실수하면 끝. 백그라운드 전환시 자동 재생 중지",
   "playback__title": "멀티 스크린은 기본",
