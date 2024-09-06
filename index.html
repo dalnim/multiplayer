@@ -110,12 +110,23 @@
         <div class="pb-5">
             <div class="container">
                 <div class="d-flex gap-3 gap-lg-4 justify-content-center align-items-center">
-                    <a href="https://play.google.com/store/apps/details?id=com.araonesoft.aramultiplayer" target="_blank" class="d-inline-block app__btn" aria-label="Google PLay Store" data-aos="fade-up-right">
-                        <img src="assets/images/home/google-play.webp" class="img-fluid" loading="lazy" alt="Google Play Store">
-                    </a>
-                    <a href="https://apps.apple.com/app/aramultiplayer/id1629544322" class="d-inline-block app__btn" aria-label="App Store" data-aos="fade-up-left" target="_blank">
-                        <img src="assets/images/home/app-store.webp" class="img-fluid" loading="lazy" alt="App Store">
-                    </a>
+<a href="https://play.google.com/store/apps/details?id=com.araonesoft.aramultiplayer" 
+   target="_blank" 
+   class="d-inline-block app__btn" 
+   aria-label="Google Play Store" 
+   data-aos="fade-up-right"
+   onclick="gtag('event', 'play_store_button_click', {'event_category': 'button_click', 'event_label': 'Google Play Store'})">
+    <img src="assets/images/home/google-play.webp" class="img-fluid" loading="lazy" alt="Google Play Store">
+</a>
+
+<a href="https://apps.apple.com/app/aramultiplayer/id1629544322" 
+   class="d-inline-block app__btn" 
+   aria-label="App Store" 
+   data-aos="fade-up-left" 
+   target="_blank"
+   onclick="gtag('event', 'app_store_button_click', {'event_category': 'button_click', 'event_label': 'App Store'})">
+    <img src="assets/images/home/app-store.webp" class="img-fluid" loading="lazy" alt="App Store">
+</a>
                 </div>
             </div>
         </div>
