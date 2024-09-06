@@ -26,7 +26,29 @@
     
 </head>
 <body> 
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
 
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyCXyomVwm3UpS4bUdr8yVDQTwhzUKe3OKA",
+    authDomain: "multiplayer-63ee3.firebaseapp.com",
+    projectId: "multiplayer-63ee3",
+    storageBucket: "multiplayer-63ee3.appspot.com",
+    messagingSenderId: "667016451626",
+    appId: "1:667016451626:web:bc98fd7d526aaa1676d553",
+    measurementId: "G-E9VBM9X447"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
          
     <!-- navigation start --> 
     <nav class="navbar navbar-expand-lg smart-scroll" id="mainNav">
