@@ -7,7 +7,7 @@ const jsonEnglish = {
   "reviews__nav": "Reviews",
 
 
-  "hero_title": "For Adult Videos",
+  "hero_title": "One video? No!!!",
   "watch__title": "Mute for Safety!",
   "watch__desc": "One mistake can ruin everything. Auto-stop when switching to background.",
   "playback__title": "Multi-Screen",
@@ -72,9 +72,9 @@ const jsonKorean = {
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
 
-  "hero_title": "성인 비디오 전용",
+  "hero_title": "하나로는 부족해!!!",
   "watch__title": "안전제일! 기본무음",
-  "watch__desc": "100번 잘해도 1번 실수하면 끝. 백그라운드 전환시 자동 재생 중지",
+  "watch__desc": "재생시작시 갑자기 큰소리가 나면 민망하죠? 그래서 기본무음입니다. 백그라운드 전환시에도 자동 재생 중지되구요.",
   "playback__title": "멀티 스크린은 기본",
   "playback__desc": "1~4개 비디오. 패드는 최대 9개까지",
   "hands_free_title": "핸즈 프리",
@@ -82,7 +82,7 @@ const jsonKorean = {
   "video_control_title": "전체 또는 개별 비디오 조작",
   "video_control_desc": "동시에 재생/정지/음소거 가능. 개별 비디오의 음량 조절 가능",
   "shuffle_title": "재생목록",
-  "shuffle_desc": "좋아하는 장르나 배우별로 재생 목록을 만드세요. 재생목록들을 선택하여 랜덤 플레이도 가능합니다.",
+  "shuffle_desc": "좋아하는 장르별로 재생 목록을 만드세요. 재생목록들을 선택하여 랜덤 플레이도 가능합니다.",
   "awesome_sc": "멀티 화면",
   "feature_title": "특징",
   "feature_desc": "",
