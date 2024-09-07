@@ -7,7 +7,7 @@ const jsonEnglish = {
   "reviews__nav": "Reviews",
 
 
-  "hero_title": "Just one video? Seriously?",
+  "hero_title": "Only one video? Seriously?",
   "watch__title": "Mute for Safety!",
   "watch__desc": "One mistake can ruin everything. Auto-stop when switching to background.",
   "playback__title": "Multi-Screen",
@@ -47,11 +47,13 @@ const jsonEnglish = {
   "testi_desc_six": "I love the shuffle playlist feature. It keeps my watching experience fresh and exciting.",
   "testi_author_six": "David B.",
 
-  "available__title": "Unsupported Features",
-  "available__desc": "The following features will be supported in the future.",
-  "available__desc__one": "No Web Browser",
-  "available__desc__two": "No YouTube",
-  "available__desc__three": "Not Streaming Yet",
+  "unavailable__title": "Unsupported Features",
+  "unavailable__desc": "The following features will be supported in the future.",
+  "unavailable__desc__one": "No Web Browser",
+  "unavailable__desc__two": "No YouTube",
+  "unavailable__desc__three": "Not Streaming Yet",
+  "available__title": "Important1",
+  "available__desc": " This app only provides sample content. The video must be in the app's document folder on iPhone and in the phone storage on Android.",
   "available__desc__four": "Only Pre DownloadedVideos",
 
   "app__title": "Join community",
@@ -113,13 +115,14 @@ const jsonKorean = {
   "testi_desc_six": "앱으로 멀티 영상을 볼 수 있는 기능이 처음인 것 같은데 여러가지를 동시에 볼 수 있어 유용하고 편하네요",
   "testi_author_six": "김**",
 
-  "available__title": "미지원 기능",
-  "available__desc": "아래 기능은 향후에 지원될 예정입니다.",
-  "available__desc__one": "웹 브라우저 기능",
-  "available__desc__two": "유튜브 지원",
-  "available__desc__three": "스트리밍 기능",
-  "available__desc__four": "가지고 있는 비디오만 가능",
-
+  "unavailable__title": "미지원 기능",
+  "unavailable__desc": "아래 기능은 향후에 지원될 예정입니다.",
+  "unavailable__desc__one": "웹 브라우저 기능",
+  "unavailable__desc__two": "유튜브 지원",
+  "unavailable__desc__three": "스트리밍 기능",
+  "available__title": "중요사항",
+  "available__desc": "본 앱은 샘플 컨텐츠만 제공합니다. 아이폰은 앱의 다큐먼트 폴더안에, 안드로이드는 폰 안에 동영상이 있어야 합니다. ",
+  "available__desc__four": "본인 소유 비디오",
   "app__title": "커뮤니티",
   "app__title__desc": "궁금한점이나 비디오를 구하는법을 모르면 레딧이나 디스코드로 오셔서 물어보세요.",
 
