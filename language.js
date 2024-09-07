@@ -52,7 +52,7 @@ const jsonEnglish = {
   "unavailable__desc__one": "No Web Browser",
   "unavailable__desc__two": "No YouTube",
   "unavailable__desc__three": "Not Streaming Yet",
-  "available__title": "Important1",
+  "available__title": "Important",
   "available__desc": " This app only provides sample content. The video must be in the app's document folder on iPhone and in the phone storage on Android.",
   "available__desc__four": "Only Pre DownloadedVideos",
 
