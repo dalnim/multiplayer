@@ -124,7 +124,7 @@ const jsonKorean = {
   "available__desc": "본 앱은 샘플 컨텐츠만 제공합니다. 아이폰은 앱의 다큐먼트 폴더안에, 안드로이드는 폰 안에 동영상이 있어야 합니다. ",
   "available__desc__four": "본인 소유 비디오",
   "app__title": "커뮤니티",
-  "app__title__desc": "궁금한점이나 비디오를 구하는법을 모르면 레딧이나 디스코드로 오셔서 물어보세요.",
+  "app__title__desc": "궁금한점이나 비디오를 구하는법을 모르면 카카오톡이나 레딧에 오셔서 물어보세요.",
 
   "maill__desc": "araonesoft@gmail.com",
   "copyright__desc": "저작권 © 2024 아라원소프트. 모든 권리 보유.",
