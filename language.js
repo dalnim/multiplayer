@@ -7,7 +7,7 @@ const jsonEnglish = {
   "reviews__nav": "Reviews",
 
 
-  "hero_title": "One video? No!!!",
+  "hero_title": "One video? Seriously?",
   "watch__title": "Mute for Safety!",
   "watch__desc": "One mistake can ruin everything. Auto-stop when switching to background.",
   "playback__title": "Multi-Screen",
