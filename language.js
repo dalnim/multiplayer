@@ -54,7 +54,7 @@ const jsonEnglish = {
   "unavailable__desc__three": "Not Streaming Yet",
   "available__title": "Important",
   "available__desc": " This app only provides sample content. The video must be in the app's document folder on iPhone and in the phone storage on Android.",
-  "available__desc__four": "Only Pre DownloadedVideos",
+  "available__desc__four": "Only Pre Downloaded Videos",
 
   "app__title": "Join community",
   "app__title__desc": "Join our community on Reddit and Discord! Come hang out, share your experiences, and have fun together!",
@@ -131,6 +131,17 @@ const jsonKorean = {
 
 }
 
+const jsonEnglishMeta = {
+  "description": "A video player that allows infinite playback of videos simultaneously on up to 4 screens (9 screens for tablets). Enjoy features like infinite loop, auto mute & background pause, multi-screen playback, AB repeat, random play & playlist, and batch control. Ideal for focused learning, practice, or revisiting your favorite scenes.",
+  "keywords": "video player, infinite playback, multi-screen playback, AB repeat, auto mute, background pause, random play, playlist, batch control"
+};
+
+
+const jsonKoreanMeta = {
+  "description": "1~4개 화면에서 동시에 무제한 비디오 재생이 가능한 비디오 플레이어(태블릿의 경우 9개 화면까지 지원). 무한 반복, 자동 무음 및 백그라운드 일시 정지, 멀티 스크린 재생, AB 반복, 랜덤 재생 및 재생 목록, 배치 제어 기능 등의 다양한 기능을 제공하며, 집중 학습, 연습, 또는 좋아하는 장면을 다시 보는 데 적합합니다.",
+  "keywords": "비디오 플레이어, 무제한 재생, 멀티 스크린 재생, AB 반복, 자동 무음, 백그라운드 일시 정지, 랜덤 재생, 재생 목록, 배치 제어"
+};
+
 // Object to store image URLs for each language
 const imageUrls = {
   en: {
@@ -145,24 +156,46 @@ const imageUrls = {
   }
 };
 
- 
-// function for content update based on selected language
-function updateLanguage(language) {
-  if (language == 'en') {
-    for (let key in jsonEnglish) {
-      document.querySelector('.' + key).textContent = jsonEnglish[key];
-    }
-  } else if (language == 'ko') {
-    for (let key in jsonKorean) {
-      document.querySelector('.' + key).textContent = jsonKorean[key];
+// Function to update text content for elements
+function updateTextContent(jsonData) {
+  for (let key in jsonData) {
+    const element = document.querySelector('.' + key);
+    if (element) {
+      element.textContent = jsonData[key];
     }
   }
-  // Update multiple image sources
+}
+
+// Function to update meta tags
+function updateMetaTags(metaData) {
+  for (let key in metaData) {
+    const metaElement = document.querySelector(`meta[name="${key}"]`);
+    if (metaElement) {
+      metaElement.setAttribute('content', metaData[key]);
+    }
+  }
+}
+
+// Function to update multiple image sources and save to localStorage
+function updateImageSources(language) {
   for (let imageId in imageUrls[language]) {
-    document.querySelector('#' + imageId).src = imageUrls[language][imageId];
-    // Save each image URL to localStorage
-    localStorage.setItem(imageId + 'Src', imageUrls[language][imageId]);
+    const imageElement = document.querySelector('#' + imageId);
+    if (imageElement) {
+      imageElement.src = imageUrls[language][imageId];
+      // Save each image URL to localStorage
+      localStorage.setItem(imageId + 'Src', imageUrls[language][imageId]);
+    }
   }
+}
+
+// Main function to update language
+function updateLanguage(language) {
+  const jsonData = language === 'en' ? jsonEnglish : jsonKorean;
+  const metaData = language === 'en' ? jsonEnglishMeta : jsonKoreanMeta;
+
+  updateTextContent(jsonData);
+  updateMetaTags(metaData);
+  updateImageSources(language);
 }
 
 // set language on change and update the localization
