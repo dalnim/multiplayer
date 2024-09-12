@@ -550,8 +550,8 @@ footer .copyright__wrapp {
 }
 
 .header__wrapper {
-  height: auto; /* 자동 높이 조정 */
-  padding-top: 1rem;
+  height: 800px;
+  padding-top: 10rem;
 /*
   background: url(../images/home/hero-bg.svg) center top no-repeat;
 	background-size: 100%
@@ -566,13 +566,13 @@ footer .copyright__wrapp {
   
 
 @media (max-width: 992px) {
-  .header__wrapper { height: auto; }
+  .header__wrapper { height: 500px; }
 	.header__wrapper .thumnail { height: 500px !important; }
   .d-hide{ display: block !important}
   .m-hide{ display: none !important} 
 }
 @media (max-width: 576px) {
-  .header__wrapper { height: auto;padding-top: 1rem; }
+  .header__wrapper { height: 450px;padding-top: 7rem; }
 	.header__wrapper .thumnail { height: 450px !important; }
 }
 .app__btn img {
