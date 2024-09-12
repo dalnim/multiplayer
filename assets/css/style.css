@@ -550,7 +550,8 @@ footer .copyright__wrapp {
 }
 
 .header__wrapper {
-  height: 1800px;
+  min-height: 100vh; /* 최소 높이를 뷰포트 높이로 설정 */
+  height: auto; /* 자동 높이 조정 */
   padding-top: 1rem;
 /*
   background: url(../images/home/hero-bg.svg) center top no-repeat;
