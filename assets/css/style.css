@@ -550,31 +550,45 @@ footer .copyright__wrapp {
 }
 
 .header__wrapper {
-  height: 800px;
   padding-top: 10rem;
-/*
+  /* 기존의 height 제거 */
+  min-height: 100vh; /* 필요에 따라 최소 높이를 설정 */
+  /*
   background: url(../images/home/hero-bg.svg) center top no-repeat;
-	background-size: 100%
-*/
+  background-size: 100%;
+  */
 }
-
-.header__wrapper .thumnail { object-position: center bottom; }
-
 .d-hide{ display: none !important}
 .m-hide{ display: block !important}
 
-  
+.header__wrapper {
+  position: relative;
+  padding-top: 10rem; /* 필요에 따라 패딩을 설정 */
+  min-height: 100vh;  /* 최소 높이를 설정 (필요 시) */
+}
+
+.header__wrapper .thumnail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;  /* 부모의 높이에 맞춰 이미지 높이를 설정 */
+  object-fit: cover;  /* 이미지가 부모 요소에 맞게 잘림 없이 맞추기 */
+  z-index: 0;  /* 필요시 z-index 조정 */
+}
 
 @media (max-width: 992px) {
-  .header__wrapper { height: 500px; }
-	.header__wrapper .thumnail { height: 500px !important; }
-  .d-hide{ display: block !important}
-  .m-hide{ display: none !important} 
+  .header__wrapper {
+    padding-top: 7rem;
+  }
 }
+
 @media (max-width: 576px) {
-  .header__wrapper { height: 450px;padding-top: 7rem; }
-	.header__wrapper .thumnail { height: 450px !important; }
+  .header__wrapper {
+    padding-top: 5rem;
+  }
 }
+
 .app__btn img {
   height: 4.5rem;
   width: auto;
@@ -657,9 +671,37 @@ footer .copyright__wrapp {
 	
 } 
 
-.video {
-    width: 100%;
-    height: auto; /* 비디오가 컨테이너에 맞게 조정됨 */
-    object-fit: cover; /* 비디오가 컨테이너를 채우도록 설정 */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
 }
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.vertical-video-container {
+    position: relative;
+    padding-bottom: 178%; /* 비율: 941/529 = 1.78, 세로 비율 유지 */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+}
+
+.vertical-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 

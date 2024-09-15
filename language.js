@@ -6,7 +6,8 @@ const jsonEnglish = {
   "feature__nav": "Features",
   "reviews__nav": "Reviews",
 
-  "hero_title": "Only one video? Seriously?",
+  "hero_title": "Video player for Adults",
+  "hero_desc": "Only watch one video at a time? Seriously? Enjoy multiple videos simultaneously",
   "watch__title": "Mute for Safety!",
   "watch__desc": "One mistake can ruin everything. Auto-stop when switching to background.",
   "playback__title": "Multi-Screen",
@@ -72,8 +73,8 @@ const jsonKorean = {
   "gallery__nav": "샘플화면",
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
-
-  "hero_title": "하나로는 부족해!!!",
+  "hero_title": "성인을 위한 비디오 플레이어", 
+  "hero_desc": "한번에 비디오 하나만 본다구요? 한번에 여러개의 비디오들을 동시에 즐기세요.",
   "watch__title": "안전제일! 기본무음",
   "watch__desc": "재생시작시 갑자기 큰소리가 나면 민망하죠? 그래서 기본무음입니다. 백그라운드 전환시에도 자동 재생 중지되구요.",
   "playback__title": "멀티 스크린은 기본",
@@ -142,7 +143,8 @@ const jsonJapanese = {
   "feature__nav": "機能",
   "reviews__nav": "レビュー",
 
-  "hero_title": "たった一つのビデオ？本気で？",
+    "hero_title": "大人向けのビデオプレーヤー", 
+    "hero_desc": "一度に1つのビデオしか見られない？複数のビデオを同時に楽しんでください。",
   "watch__title": "安全のためにミュート！",
   "watch__desc": "一度のミスで全てが台無しに。バックグラウンドに切り替えると自動停止。",
   "playback__title": "マルチスクリーン",
@@ -211,7 +213,8 @@ const jsonSpanish = {
   "feature__nav": "Características",
   "reviews__nav": "Reseñas",
 
-  "hero_title": "¿Solo un video? ¿En serio?",
+      "hero_title": "Reproductor de video para adultos", 
+    "hero_desc": "¿Solo puedes ver un video a la vez? Disfruta de varios videos simultáneamente.",
   "watch__title": "¡Silencio por seguridad!",
   "watch__desc": "Un solo error puede arruinarlo todo. Parada automática al cambiar al fondo.",
   "playback__title": "Pantalla múltiple",
@@ -277,7 +280,8 @@ const jsonFrench = {
   "feature__nav": "Caractéristiques",
   "reviews__nav": "Avis",
 
-  "hero_title": "Seulement une vidéo ? Sérieusement ?",
+  "hero_title": "Lecteur vidéo pour adultes", 
+    "hero_desc": "Vous ne pouvez regarder qu'une vidéo à la fois ? Profitez de plusieurs vidéos simultanément.",
   "watch__title": "Muet pour plus de sécurité !",
   "watch__desc": "Une seule erreur peut tout gâcher. Arrêt automatique lors du passage en arrière-plan.",
   "playback__title": "Écran multiple",
@@ -343,7 +347,8 @@ const jsonDutch = {
   "feature__nav": "Kenmerken",
   "reviews__nav": "Recensies",
 
-  "hero_title": "Slechts één video? Serieus?",
+  "hero_title": "Videospeler voor volwassenen", 
+    "hero_desc": "Kun je maar één video tegelijk bekijken? Geniet van meerdere video's tegelijk.",
   "watch__title": "Dempen voor veiligheid!",
   "watch__desc": "Een fout kan alles verpesten. Automatisch stoppen bij het overschakelen naar de achtergrond.",
   "playback__title": "Meerdere schermen",
@@ -409,7 +414,8 @@ const jsonNorwegian = {
   "feature__nav": "Funksjoner",
   "reviews__nav": "Anmeldelser",
 
-  "hero_title": "Bare én video? Seriøst?",
+  "hero_title": "Videospiller for voksne", 
+    "hero_desc": "Kan du bare se én video om gangen? Nyt flere videoer samtidig.",
   "watch__title": "Dempet for sikkerhet!",
   "watch__desc": "Én feil kan ødelegge alt. Automatisk stopp når du bytter til bakgrunnen.",
   "playback__title": "Flerskjerm",
@@ -476,7 +482,8 @@ const jsonGerman = {
   "feature__nav": "Funktionen",
   "reviews__nav": "Bewertungen",
 
-  "hero_title": "Nur ein Video? Ernsthaft?",
+  "hero_title": "Videoplayer für Erwachsene", 
+    "hero_desc": "Kannst du nur ein Video auf einmal ansehen? Genieße mehrere Videos gleichzeitig.",
   "watch__title": "Stumm zur Sicherheit!",
   "watch__desc": "Ein Fehler kann alles ruinieren. Automatischer Stopp beim Wechsel in den Hintergrund.",
   "playback__title": "Mehrere Bildschirme",
@@ -543,7 +550,8 @@ const jsonRussian = {
   "feature__nav": "Функции",
   "reviews__nav": "Отзывы",
 
-  "hero_title": "Только одно видео? Серьезно?",
+  "hero_title": "Видеоплеер для взрослых", 
+    "hero_desc": "Можете смотреть только одно видео за раз? Наслаждайтесь несколькими видео одновременно.",
   "watch__title": "Отключить звук для безопасности!",
   "watch__desc": "Одна ошибка может все испортить. Автоостановка при переключении в фоновый режим.",
   "playback__title": "Многоканальный просмотр",
@@ -610,7 +618,8 @@ const jsonVietnamese = {
   "feature__nav": "Tính năng",
   "reviews__nav": "Đánh giá",
 
-  "hero_title": "Chỉ một video? Thực sự sao?",
+  "hero_title": "Trình phát video cho người lớn", 
+    "hero_desc": "Chỉ xem một video cùng một lúc? Hãy tận hưởng nhiều video cùng lúc.",
   "watch__title": "Tắt tiếng để an toàn!",
   "watch__desc": "Một sai lầm có thể làm hỏng mọi thứ. Tự động dừng khi chuyển sang chế độ nền.",
   "playback__title": "Phát nhiều màn hình",
@@ -678,7 +687,8 @@ const jsonItalian = {
   "feature__nav": "Caratteristiche",
   "reviews__nav": "Recensioni",
 
-  "hero_title": "Solo un video? Sul serio?",
+  "hero_title": "Lettore video per adulti", 
+    "hero_desc": "Puoi guardare solo un video alla volta? Goditi più video contemporaneamente.",
   "watch__title": "Silenzio per Sicurezza!",
   "watch__desc": "Un errore può rovinare tutto. Arresto automatico quando si passa in background.",
   "playback__title": "Multi-Schermo",
@@ -745,7 +755,8 @@ const jsonChineseSimplified = {
   "feature__nav": "功能",
   "reviews__nav": "评论",
 
-  "hero_title": "只有一个视频？真的吗？",
+  "hero_title": "成人视频播放器", 
+    "hero_desc": "一次只能观看一个视频？同时享受多个视频。",
   "watch__title": "安全静音！",
   "watch__desc": "一个错误可能会毁掉一切。切换到后台时自动停止播放。",
   "playback__title": "多屏播放",
@@ -811,7 +822,8 @@ const jsonChineseTraditional = {
   "feature__nav": "功能",
   "reviews__nav": "評論",
 
-  "hero_title": "只有一個視頻？真的嗎？",
+  "hero_title": "成人影片播放器", 
+    "hero_desc": "一次只能觀看一個影片？同時欣賞多個影片。",
   "watch__title": "安全靜音！",
   "watch__desc": "一個錯誤可能會毀掉一切。切換到背景時自動停止播放。",
   "playback__title": "多螢幕播放",
@@ -878,7 +890,8 @@ const jsonArabic = {
   "feature__nav": "الميزات",
   "reviews__nav": "التقييمات",
 
-  "hero_title": "فيديو واحد فقط؟ حقاً؟",
+  "hero_title": "مشغل فيديو للكبار", 
+    "hero_desc": "هل يمكنك مشاهدة فيديو واحد فقط في كل مرة؟ استمتع بمقاطع فيديو متعددة في وقت واحد.",
   "watch__title": "صامت من أجل الأمان!",
   "watch__desc": "قد تدمر خطأ واحد كل شيء. توقف تلقائي عند الانتقال إلى الخلفية.",
   "playback__title": "تشغيل متعدد الشاشات",
@@ -945,7 +958,8 @@ const jsonCzech = {
   "feature__nav": "Funkce",
   "reviews__nav": "Recenze",
 
-  "hero_title": "Jeden video? Opravu?",
+  "hero_title": "Videopřehrávač pro dospělé", 
+    "hero_desc": "Můžete sledovat pouze jedno video najednou? Užijte si více videí současně.",
   "watch__title": "Ticho pro bezpečnost!",
   "watch__desc": "Jeden chybný krok může všechno zničit. Automatické zastavení při přepnutí do pozadí.",
   "playback__title": "Více obrazovek",
@@ -1012,7 +1026,8 @@ const jsonCroatian = {
   "feature__nav": "Značajke",
   "reviews__nav": "Recenzije",
 
-  "hero_title": "Samo jedno video? Ozbiljno?",
+  "hero_title": "Video player za odrasle", 
+    "hero_desc": "Možete li gledati samo jedan video u isto vrijeme? Uživajte u više videozapisa istovremeno.",
   "watch__title": "Tiho za sigurnost!",
   "watch__desc": "Jedna pogreška može sve uništiti. Automatsko zaustavljanje prilikom prelaska u pozadinu.",
   "playback__title": "Više ekrana",
@@ -1079,7 +1094,8 @@ const jsonDanish = {
   "feature__nav": "Funktioner",
   "reviews__nav": "Anmeldelser",
 
-  "hero_title": "Kun én video? Seriøst?",
+  "hero_title": "Videospiller til voksne", 
+    "hero_desc": "Kan du kun se én video ad gangen? Nyd flere videoer samtidig.",
   "watch__title": "Lydløs for sikkerhed!",
   "watch__desc": "Én fejl kan ødelægge alt. Auto-stop når du skifter til baggrunden.",
   "playback__title": "Flere skærme",
@@ -1146,7 +1162,8 @@ const jsonFinnish = {
   "feature__nav": "Ominaisuudet",
   "reviews__nav": "Arvostelut",
 
-  "hero_title": "Vain yksi video? Todellako?",
+  "hero_title": "Videonsoitin aikuisille", 
+    "hero_desc": "Voitko katsella vain yhtä videota kerrallaan? Nauti useista videoista samanaikaisesti.",
   "watch__title": "Äänetön turvallisuuden vuoksi!",
   "watch__desc": "Yksi virhe voi tuhota kaiken. Automaattinen pysäytys siirryttäessä taustalle.",
   "playback__title": "Moninäyttö",
@@ -1213,7 +1230,8 @@ const jsonGreek = {
   "feature__nav": "Χαρακτηριστικά",
   "reviews__nav": "Κριτικές",
 
-  "hero_title": "Μόνο ένα βίντεο; Σοβαρά;",
+  "hero_title": "Πρόγραμμα αναπαραγωγής βίντεο για ενήλικες", 
+    "hero_desc": "Μπορείτε να παρακολουθήσετε μόνο ένα βίντεο κάθε φορά; Απολαύστε πολλά βίντεο ταυτόχρονα.",
   "watch__title": "Σιωπηλό για ασφάλεια!",
   "watch__desc": "Μία λάθος κίνηση μπορεί να καταστρέψει τα πάντα. Αυτόματη διακοπή όταν μεταβαίνετε στο παρασκήνιο.",
   "playback__title": "Πολλαπλές οθόνες",
@@ -1280,7 +1298,8 @@ const jsonHebrew = {
   "feature__nav": "תכונות",
   "reviews__nav": "ביקורות",
 
-  "hero_title": "רק סרטון אחד? ברצינות?",
+  "hero_title": "נגן וידאו למבוגרים", 
+    "hero_desc": "אפשר לצפות רק בסרטון אחד בכל פעם? תהנה מכמה סרטונים בו זמנית.",
   "watch__title": "שקט בשביל הביטחון!",
   "watch__desc": "תנועה לא נכונה יכולה להרוס הכל. הפסקה אוטומטית כאשר אתה עובר לרקע.",
   "playback__title": "מסכים מרובים",
@@ -1347,7 +1366,8 @@ const jsonHindi = {
   "feature__nav": "विशेषताएँ",
   "reviews__nav": "समीक्षाएँ",
 
-  "hero_title": "केवल एक वीडियो? सचमुच?",
+  "hero_title": "वयस्कों के लिए वीडियो प्लेयर", 
+    "hero_desc": "क्या आप एक समय में केवल एक वीडियो देख सकते हैं? एक साथ कई वीडियो का आनंद लें।",
   "watch__title": "सुरक्षा के लिए म्यूट!",
   "watch__desc": "एक गलती सब कुछ बर्बाद कर सकती है। पृष्ठभूमि में स्विच करते समय ऑटो-स्टॉप।",
   "playback__title": "मल्टी-स्क्रीन",
@@ -1414,7 +1434,8 @@ const jsonHungarian = {
   "feature__nav": "Jellemzők",
   "reviews__nav": "Vélemények",
 
-  "hero_title": "Csak egy videó? Komolyan?",
+  "hero_title": "Videólejátszó felnőtteknek", 
+    "hero_desc": "Csak egy videót nézhetsz egyszerre? Élvezd több videót egyszerre.",
   "watch__title": "Némítás biztonság érdekében!",
   "watch__desc": "Egy hiba mindent tönkretehet. Automatikus leállás, amikor a háttérbe vált.",
   "playback__title": "Több képernyős",
@@ -1481,7 +1502,8 @@ const jsonIndonesian = {
   "feature__nav": "Fitur",
   "reviews__nav": "Ulasan",
 
-  "hero_title": "Hanya satu video? Serius?",
+  "hero_title": "Pemutar video untuk dewasa", 
+    "hero_desc": "Hanya bisa menonton satu video sekaligus? Nikmati beberapa video sekaligus.",
   "watch__title": "Matikan untuk Keamanan!",
   "watch__desc": "Satu kesalahan dapat merusak segalanya. Berhenti otomatis saat beralih ke latar belakang.",
   "playback__title": "Multi-Ekran",
@@ -1548,7 +1570,8 @@ const jsonMalay = {
   "feature__nav": "Ciri",
   "reviews__nav": "Ulasan",
 
-  "hero_title": "Hanya satu video? Betul?",
+  "hero_title": "Pemain video untuk dewasa", 
+    "hero_desc": "Hanya boleh menonton satu video pada satu masa? Nikmati beberapa video serentak.",
   "watch__title": "Matikan untuk Keselamatan!",
   "watch__desc": "Satu kesilapan boleh merosakkan segalanya. Berhenti secara automatik apabila beralih ke latar belakang.",
   "playback__title": "Multi-Skrin",
@@ -1615,7 +1638,8 @@ const jsonPolish = {
   "feature__nav": "Funkcje",
   "reviews__nav": "Opinie",
 
-  "hero_title": "Tylko jedno wideo? Naprawdę?",
+  "hero_title": "Odtwarzacz wideo dla dorosłych", 
+   "hero_desc": "Możesz oglądać tylko jeden film na raz? Ciesz się wieloma filmami jednocześnie.",
   "watch__title": "Wyłącz dźwięk dla bezpieczeństwa!",
   "watch__desc": "Jedno niedopatrzenie może zepsuć wszystko. Automatyczne zatrzymywanie przy przejściu w tle.",
   "playback__title": "Wieloscreenowy",
@@ -1682,7 +1706,8 @@ const jsonRomanian = {
   "feature__nav": "Funcții",
   "reviews__nav": "Recenzii",
 
-  "hero_title": "Numai un singur videoclip? Chiar?",
+  "hero_title": "Player video pentru adulți", 
+  "hero_desc": "Poți viziona doar un videoclip deodată? Bucură-te de mai multe videoclipuri simultan.",
   "watch__title": "Fără sunet pentru siguranță!",
   "watch__desc": "O greșeală poate strica totul. Oprire automată când treceți în fundal.",
   "playback__title": "Multiple Ecrane",
@@ -1749,7 +1774,8 @@ const jsonSlovak = {
   "feature__nav": "Funkcie",
   "reviews__nav": "Recenzie",
 
-  "hero_title": "Len jedno video? Seriózne?",
+  "hero_title": "Videoprehrávač pre dospelých", 
+  "hero_desc": "Môžete sledovať iba jedno video naraz? Užite si viac videí súčasne.",
   "watch__title": "Tichý pre bezpečnosť!",
   "watch__desc": "Jedna chyba môže pokaziť všetko. Automatické zastavenie pri prechode na pozadie.",
   "playback__title": "Viac obrazoviek",
@@ -1816,7 +1842,8 @@ const jsonSwedish = {
   "feature__nav": "Funktioner",
   "reviews__nav": "Recensioner",
 
-  "hero_title": "Bara en video? Seriöst?",
+  "hero_title": "Videospelare för vuxna", 
+  "hero_desc": "Kan du bara se ett video åt gången? Njut av flera videor samtidigt.",
   "watch__title": "Tyst för säkerhet!",
   "watch__desc": "Ett misstag kan förstöra allt. Automatisk stopp när du växlar till bakgrunden.",
   "playback__title": "Flera skärmar",
@@ -1883,7 +1910,8 @@ const jsonThai = {
   "feature__nav": "ฟีเจอร์",
   "reviews__nav": "รีวิว",
 
-  "hero_title": "มีแค่หนึ่งวิดีโอเหรอ?",
+  "hero_title": "เครื่องเล่นวิดีโอสำหรับผู้ใหญ่", 
+  "hero_desc": "คุณสามารถดูได้แค่ครั้งละหนึ่งวิดีโอ? เพลิดเพลินกับวิดีโอหลายรายการพร้อมกัน",
   "watch__title": "ปิดเสียงเพื่อความปลอดภัย!",
   "watch__desc": "ความผิดพลาดเพียงครั้งเดียวอาจทำลายทุกอย่างได้ ปิดการเล่นอัตโนมัติเมื่อสลับไปที่พื้นหลัง",
   "playback__title": "หลายหน้าจอ",
@@ -1950,7 +1978,8 @@ const jsonTurkish = {
   "feature__nav": "Özellikler",
   "reviews__nav": "Yorumlar",
 
-  "hero_title": "Sadece bir video mı? Ciddi misin?",
+  "hero_title": "Yetişkinler için video oynatıcı", 
+  "hero_desc": "Bir seferde sadece bir video mu izleyebilirsiniz? Aynı anda birden fazla videodan keyif alın.",
   "watch__title": "Güvenlik İçin Sessiz Mod!",
   "watch__desc": "Tek bir hata her şeyi mahvedebilir. Arka plana geçerken otomatik duraklatma.",
   "playback__title": "Çoklu Ekran",
@@ -2017,7 +2046,8 @@ const jsonUkrainian = {
   "feature__nav": "Особливості",
   "reviews__nav": "Відгуки",
 
-  "hero_title": "Тільки одне відео? Справді?",
+  "hero_title": "Відеоплеєр для дорослих", 
+  "hero_desc": "Можете переглядати тільки одне відео одночасно? Насолоджуйтесь кількома відео одночасно.",
   "watch__title": "Безпека: Мовчання!",
   "watch__desc": "Одна помилка може все зіпсувати. Автоматична зупинка при переході в фоновий режим.",
   "playback__title": "Багатоекранний режим",
@@ -2189,3 +2219,5 @@ document.addEventListener('DOMContentLoaded', function () {
     document.querySelector('#' + imageId).src = storedImageSrc;
   }
 })
+
+
