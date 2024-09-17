@@ -671,6 +671,12 @@ footer .copyright__wrapp {
 	
 } 
 
+.video {
+    width: 100%;
+    height: auto; /* 비디오가 컨테이너에 맞게 조정됨 */
+    object-fit: cover; /* 비디오가 컨테이너를 채우도록 설정 */
+}
+
 .video-container {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 aspect ratio */

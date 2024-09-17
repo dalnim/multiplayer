@@ -6,7 +6,7 @@ const jsonEnglish = {
   "feature__nav": "Features",
   "reviews__nav": "Reviews",
 
-  "hero_title": "Video player for Adults",
+  "hero_title": "Erotic Multi Videos player",
   "hero_desc": "Only watch one video at a time? Seriously? Enjoy multiple videos simultaneously",
   "watch__title": "Mute for Safety!",
   "watch__desc": "One mistake can ruin everything. Auto-stop when switching to background.",
@@ -51,7 +51,7 @@ const jsonEnglish = {
   "unavailable__desc__one": "No Web Browser",
   "unavailable__desc__two": "No YouTube",
   "unavailable__desc__three": "Not Streaming Yet",
-  "available__title": "Important1",
+  "available__title": "Important",
   "available__desc": " This app only provides sample content. The video must be in the app's document folder on iPhone and in the phone storage on Android.",
   "available__desc__four": "Only Pre Downloaded Videos",
   "app__title": "Join community",
@@ -61,8 +61,8 @@ const jsonEnglish = {
   "copyright__desc": "Copyright © 2024 AraOneSoft.co. All Rights Reserved.",
 }
 const jsonEnglishMeta = {
-  "description": "A video player that allows infinite playback of videos simultaneously on up to 4 screens (9 screens for tablets). Enjoy features like infinite loop, auto mute & background pause, multi-screen playback, AB repeat, random play & playlist, and batch control. Ideal for focused learning, practice, or revisiting your favorite scenes.",
-  "keywords": "video player, infinite playback, multi-screen playback, AB repeat, auto mute, background pause, random play, playlist, batch control"
+  "description": "A video player capable of unlimited playback of erotic videos on 1-4 screens simultaneously (up to 9 screens supported on tablets). It offers various features such as infinite loop, auto mute and background pause, multi-screen playback, AB loop, shuffle playback, playlists, batch control, making it perfect for focused study, practice, or revisiting your favorite scenes.",
+  "keywords": "erotic, Adult, split screen, nsfw, porn, video player, unlimited playback, multi-screen playback, AB loop, auto mute, background pause, shuffle playback, playlist, batch control"
 };
 
 
@@ -73,7 +73,7 @@ const jsonKorean = {
   "gallery__nav": "샘플화면",
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
-  "hero_title": "성인을 위한 비디오 플레이어", 
+  "hero_title": "에로틱 멀티 비디오 플레이어", 
   "hero_desc": "한번에 비디오 하나만 본다구요? 한번에 여러개의 비디오들을 동시에 즐기세요.",
   "watch__title": "안전제일! 기본무음",
   "watch__desc": "재생시작시 갑자기 큰소리가 나면 민망하죠? 그래서 기본무음입니다. 백그라운드 전환시에도 자동 재생 중지되구요.",
@@ -131,8 +131,8 @@ const jsonKorean = {
 
 }
 const jsonKoreanMeta = {
-  "description": "1~4개 화면에서 동시에 무제한 비디오 재생이 가능한 비디오 플레이어(태블릿의 경우 9개 화면까지 지원). 무한 반복, 자동 무음 및 백그라운드 일시 정지, 멀티 스크린 재생, AB 반복, 랜덤 재생 및 재생 목록, 배치 제어 기능 등의 다양한 기능을 제공하며, 집중 학습, 연습, 또는 좋아하는 장면을 다시 보는 데 적합합니다.",
-  "keywords": "비디오 플레이어, 무제한 재생, 멀티 스크린 재생, AB 반복, 자동 무음, 백그라운드 일시 정지, 랜덤 재생, 재생 목록, 배치 제어"
+ "description": "에로틱 동영상을 1~4개 화면에서 동시에 무제한 재생이 가능한 비디오 플레이어(태블릿의 경우 9개 화면까지 지원). 무한 반복, 자동 무음 및 백그라운드 일시 정지, 멀티 스크린 재생, AB 반복, 랜덤 재생 및 재생 목록, 배치 제어 기능 등의 다양한 기능을 제공하며, 집중 학습, 연습, 또는 좋아하는 장면을 다시 보는 데 적합합니다.",
+  "keywords": "에로틱, 성인, 화면분할, nsfw, 야동, 야한 동영상, nsfw, porn, 비디오 플레이어, 무제한 재생, 멀티 스크린 재생, AB 반복, 자동 무음, 백그라운드 일시 정지, 랜덤 재생, 재생 목록, 배치 제어"
 };
 
 const jsonJapanese = {
@@ -143,8 +143,8 @@ const jsonJapanese = {
   "feature__nav": "機能",
   "reviews__nav": "レビュー",
 
-    "hero_title": "大人向けのビデオプレーヤー", 
-    "hero_desc": "一度に1つのビデオしか見られない？複数のビデオを同時に楽しんでください。",
+    "hero_title": "エロティックマルチビデオプレーヤー",
+      "hero_desc": "一度に一つの動画しか見ませんか？本気ですか？複数の動画を同時に楽しんでください",
   "watch__title": "安全のためにミュート！",
   "watch__desc": "一度のミスで全てが台無しに。バックグラウンドに切り替えると自動停止。",
   "playback__title": "マルチスクリーン",
@@ -201,9 +201,9 @@ const jsonJapanese = {
 }
 
 const jsonJapaneseMeta = {
-  "description": "最大4画面（タブレットの場合は9画面）でビデオを無限に再生できるビデオプレイヤーです。無限ループ、自動ミュート＆バックグラウンド一時停止、マルチスクリーン再生、ABリピート、ランダム再生＆プレイリスト、バッチコントロールなどの機能を楽しめます。集中学習、練習、またはお気に入りのシーンの再視聴に最適です。",
-  "keywords": "ビデオプレイヤー, 無限再生, マルチスクリーン再生, ABリピート, 自動ミュート, バックグラウンド一時停止, ランダム再生, プレイリスト, バッチコントロール"
-}
+  "description": "エロティックな動画を1～4つの画面で同時に無制限に再生できるビデオプレーヤー（タブレットの場合は9画面までサポート）。無限ループ、自動ミュートとバックグラウンド一時停止、マルチスクリーン再生、ABリピート、シャッフル再生、プレイリスト、バッチ制御などのさまざまな機能を提供し、集中学習、練習、またはお気に入りのシーンを再視聴するのに最適です。",
+  "keywords": "エロティック, 成人向け, スプリットスクリーン, nsfw, ポルノ, ビデオプレーヤー, 無制限再生, マルチスクリーン再生, ABリピート, 自動ミュート, バックグラウンド一時停止, シャッフル再生, プレイリスト, バッチ制御"
+};
 
 const jsonSpanish = {
   "hands__nav": "Manos Libres",
@@ -213,8 +213,8 @@ const jsonSpanish = {
   "feature__nav": "Características",
   "reviews__nav": "Reseñas",
 
-      "hero_title": "Reproductor de video para adultos", 
-    "hero_desc": "¿Solo puedes ver un video a la vez? Disfruta de varios videos simultáneamente.",
+  "hero_title": "Reproductor de videos múltiples eróticos",
+      "hero_desc": "¿Solo ves un video a la vez? ¿En serio? Disfruta de múltiples videos simultáneamente",
   "watch__title": "¡Silencio por seguridad!",
   "watch__desc": "Un solo error puede arruinarlo todo. Parada automática al cambiar al fondo.",
   "playback__title": "Pantalla múltiple",
@@ -268,8 +268,8 @@ const jsonSpanish = {
   "copyright__desc": "Copyright © 2024 AraOneSoft.co. Todos los derechos reservados.",
 }
 const jsonSpanishMeta = {
-  "description": "Un reproductor de video que permite la reproducción infinita de videos simultáneamente en hasta 4 pantallas (9 pantallas para tabletas). Disfruta de funciones como bucle infinito, silencio automático y pausa en segundo plano, reproducción en pantallas múltiples, repetición AB, reproducción aleatoria y lista de reproducción, y control por lotes. Ideal para el aprendizaje enfocado, la práctica o para revisar tus escenas favoritas.",
-  "keywords": "reproductor de video, reproducción infinita, reproducción en pantallas múltiples, repetición AB, silencio automático, pausa en segundo plano, reproducción aleatoria, lista de reproducción, control por lotes"
+  "description": "Un reproductor de videos capaz de reproducir videos eróticos en 1-4 pantallas simultáneamente (hasta 9 pantallas compatibles en tabletas). Ofrece varias funciones como bucle infinito, silencio automático y pausa en segundo plano, reproducción en múltiples pantallas, bucle AB, reproducción aleatoria, listas de reproducción, control por lotes, ideal para estudio enfocado, práctica o revisar tus escenas favoritas.",
+  "keywords": "erótico, Adulto, pantalla dividida, nsfw, porno, reproductor de videos, reproducción ilimitada, reproducción en múltiples pantallas, bucle AB, silencio automático, pausa en segundo plano, reproducción aleatoria, lista de reproducción, control por lotes"
 };
 
 const jsonFrench = {
@@ -280,8 +280,8 @@ const jsonFrench = {
   "feature__nav": "Caractéristiques",
   "reviews__nav": "Avis",
 
-  "hero_title": "Lecteur vidéo pour adultes", 
-    "hero_desc": "Vous ne pouvez regarder qu'une vidéo à la fois ? Profitez de plusieurs vidéos simultanément.",
+  "hero_title": "Lecteur vidéo multi-érotique",
+      "hero_desc": "Vous ne regardez qu'une seule vidéo à la fois ? Sérieusement ? Profitez de plusieurs vidéos simultanément",
   "watch__title": "Muet pour plus de sécurité !",
   "watch__desc": "Une seule erreur peut tout gâcher. Arrêt automatique lors du passage en arrière-plan.",
   "playback__title": "Écran multiple",
@@ -335,8 +335,8 @@ const jsonFrench = {
   "copyright__desc": "Copyright © 2024 AraOneSoft.co. Tous droits réservés.",
 }
 const jsonFrenchMeta = {
-  "description": "Un lecteur vidéo qui permet la lecture infinie de vidéos simultanément sur jusqu'à 4 écrans (9 écrans pour les tablettes). Profitez de fonctionnalités comme la boucle infinie, la mise en sourdine automatique et la pause en arrière-plan, la lecture sur plusieurs écrans, la répétition AB, la lecture aléatoire et la liste de lecture, et le contrôle par lots. Idéal pour un apprentissage ciblé, la pratique ou la révision de vos scènes préférées.",
-  "keywords": "lecteur vidéo, lecture infinie, lecture sur plusieurs écrans, répétition AB, mise en sourdine automatique, pause en arrière-plan, lecture aléatoire, liste de lecture, contrôle par lots"
+  "description": "Un lecteur vidéo capable de lire des vidéos érotiques sur 1 à 4 écrans simultanément (jusqu'à 9 écrans pris en charge sur tablette). Il offre diverses fonctionnalités telles que la boucle infinie, la mise en sourdine automatique et la pause en arrière-plan, la lecture multi-écrans, la boucle AB, la lecture aléatoire, les listes de lecture, le contrôle par lots, parfait pour les études concentrées, la pratique ou revoir vos scènes préférées.",
+  "keywords": "érotique, Adult, écran partagé, nsfw, porno, lecteur vidéo, lecture illimitée, lecture multi-écrans, boucle AB, sourdine automatique, pause en arrière-plan, lecture aléatoire, playlist, contrôle par lots"
 };
 
 const jsonDutch = {
@@ -347,8 +347,8 @@ const jsonDutch = {
   "feature__nav": "Kenmerken",
   "reviews__nav": "Recensies",
 
-  "hero_title": "Videospeler voor volwassenen", 
-    "hero_desc": "Kun je maar één video tegelijk bekijken? Geniet van meerdere video's tegelijk.",
+  "hero_title": "Erotische multi-videospeler",
+      "hero_desc": "Kijk je maar één video tegelijk? Echt? Geniet van meerdere video's tegelijkertijd",
   "watch__title": "Dempen voor veiligheid!",
   "watch__desc": "Een fout kan alles verpesten. Automatisch stoppen bij het overschakelen naar de achtergrond.",
   "playback__title": "Meerdere schermen",
@@ -402,9 +402,10 @@ const jsonDutch = {
 };
 
 const jsonDutchMeta = {
-  "description": "Een videospeler die gelijktijdige weergave van video's op maximaal 4 schermen (9 schermen voor tablets) mogelijk maakt. Geniet van functies zoals oneindige herhaling, automatische demping & achtergrondpauze, multi-screen weergave, AB-herhaling, willekeurig afspelen & afspeellijst, en batchbediening. Ideaal voor gefocust leren, oefenen of het opnieuw bekijken van je favoriete scènes.",
-  "keywords": "videospeler, oneindige weergave, multi-screen weergave, AB-herhaling, automatische demping, achtergrondpauze, willekeurig afspelen, afspeellijst, batchbediening"
+  "description": "Ein Videoplayer, der in der Lage ist, erotische Videos auf 1-4 Bildschirmen gleichzeitig unbegrenzt wiederzugeben (auf Tablets werden bis zu 9 Bildschirme unterstützt). Es bietet verschiedene Funktionen wie Endlosschleife, automatische Stummschaltung und Hintergrundpause, Multi-Screen-Wiedergabe, AB-Schleife, Zufallswiedergabe, Wiedergabelisten und Batch-Steuerung und ist ideal für intensives Lernen, Übung oder das erneute Ansehen Ihrer Lieblingsszenen.",
+  "keywords": "erotisch, Erwachsen, geteilte Bildschirm, nsfw, Porno, Videoplayer, unbegrenzte Wiedergabe, Multi-Screen-Wiedergabe, AB-Schleife, automatische Stummschaltung, Hintergrundpause, Zufallswiedergabe, Wiedergabeliste, Batch-Steuerung"
 };
+
 
 const jsonNorwegian = {
   "hands__nav": "Håndfri",
@@ -414,8 +415,8 @@ const jsonNorwegian = {
   "feature__nav": "Funksjoner",
   "reviews__nav": "Anmeldelser",
 
-  "hero_title": "Videospiller for voksne", 
-    "hero_desc": "Kan du bare se én video om gangen? Nyt flere videoer samtidig.",
+  "hero_title": "Erotisk multivideospiller",
+      "hero_desc": "Ser du bare én video om gangen? Seriøst? Nyt flere videoer samtidig",
   "watch__title": "Dempet for sikkerhet!",
   "watch__desc": "Én feil kan ødelegge alt. Automatisk stopp når du bytter til bakgrunnen.",
   "playback__title": "Flerskjerm",
@@ -470,9 +471,10 @@ const jsonNorwegian = {
 };
 
 const jsonNorwegianMeta = {
-  "description": "En videospiller som muliggjør uendelig avspilling av videoer samtidig på opptil 4 skjermer (9 skjermer for nettbrett). Nyt funksjoner som uendelig løkke, automatisk demping og bakgrunnspause, flerskjermsavspilling, AB-gjentakelse, tilfeldig avspilling og spilleliste, og batchkontroll. Ideell for fokusert læring, praksis eller gjenopplevelse av favorittscenene dine.",
-  "keywords": "videospiller, uendelig avspilling, flerskjermsavspilling, AB-gjentakelse, automatisk demping, bakgrunnspause, tilfeldig avspilling, spilleliste, batchkontroll"
+  "description": "En videospiller som kan spille av erotiske videoer på 1-4 skjermer samtidig (opptil 9 skjermer støttes på nettbrett). Den tilbyr ulike funksjoner som uendelig sløyfe, automatisk demping og bakgrunnspause, multiskjermavspilling, AB-sløyfe, tilfeldig avspilling, spillelister, batchkontroll, perfekt for fokusert studie, øving eller å se favorittscenene dine igjen.",
+  "keywords": "erotisk, Voksen, delt skjerm, nsfw, porno, videospiller, ubegrenset avspilling, multiskjermavspilling, AB-sløyfe, automatisk demping, bakgrunnspause, tilfeldig avspilling, spilleliste, batchkontroll"
 };
+
 
 const jsonGerman = {
   "hands__nav": "Freihändig",
@@ -482,8 +484,8 @@ const jsonGerman = {
   "feature__nav": "Funktionen",
   "reviews__nav": "Bewertungen",
 
-  "hero_title": "Videoplayer für Erwachsene", 
-    "hero_desc": "Kannst du nur ein Video auf einmal ansehen? Genieße mehrere Videos gleichzeitig.",
+  "hero_title": "Erotischer Multi-Videoplayer",
+      "hero_desc": "Schaust du nur ein Video auf einmal? Ernsthaft? Genieße mehrere Videos gleichzeitig",
   "watch__title": "Stumm zur Sicherheit!",
   "watch__desc": "Ein Fehler kann alles ruinieren. Automatischer Stopp beim Wechsel in den Hintergrund.",
   "playback__title": "Mehrere Bildschirme",
@@ -538,8 +540,8 @@ const jsonGerman = {
 };
 
 const jsonGermanMeta = {
-  "description": "Ein Videoplayer, der es ermöglicht, Videos gleichzeitig auf bis zu 4 Bildschirmen (9 Bildschirmen für Tablets) unendlich abzuspielen. Genießen Sie Funktionen wie Endlosschleife, automatische Stummschaltung und Hintergrundpause, Wiedergabe auf mehreren Bildschirmen, AB-Wiederholung, zufällige Wiedergabe und Wiedergabeliste sowie Stapelsteuerung. Ideal zum fokussierten Lernen, Üben oder um Ihre Lieblingsszenen noch einmal zu erleben.",
-  "keywords": "Videoplayer, unendliche Wiedergabe, Wiedergabe auf mehreren Bildschirmen, AB-Wiederholung, automatische Stummschaltung, Hintergrundpause, zufällige Wiedergabe, Wiedergabeliste, Stapelsteuerung"
+  "description": "Ein Videoplayer, der in der Lage ist, erotische Videos auf 1-4 Bildschirmen gleichzeitig abzuspielen (unterstützt bis zu 9 Bildschirme auf Tablets). Er bietet verschiedene Funktionen wie Endlosschleife, automatisches Stummschalten und Pausieren im Hintergrund, Multi-Screen-Wiedergabe, AB-Schleife, Zufallswiedergabe, Wiedergabelisten und Stapelsteuerung, perfekt für fokussiertes Lernen, Üben oder zum erneuten Ansehen deiner Lieblingsszenen.",
+  "keywords": "erotisch, Erwachsene, geteiltes Bildschirm, nsfw, Porno, Videoplayer, unbegrenzte Wiedergabe, Multi-Screen-Wiedergabe, AB-Schleife, automatisches Stummschalten, Hintergrundpause, Zufallswiedergabe, Wiedergabeliste, Stapelsteuerung"
 };
 
 const jsonRussian = {
@@ -550,8 +552,8 @@ const jsonRussian = {
   "feature__nav": "Функции",
   "reviews__nav": "Отзывы",
 
-  "hero_title": "Видеоплеер для взрослых", 
-    "hero_desc": "Можете смотреть только одно видео за раз? Наслаждайтесь несколькими видео одновременно.",
+  "hero_title": "Эротический многовидео плеер",
+      "hero_desc": "Смотрите только одно видео за раз? Серьезно? Наслаждайтесь несколькими видео одновременно",
   "watch__title": "Отключить звук для безопасности!",
   "watch__desc": "Одна ошибка может все испортить. Автоостановка при переключении в фоновый режим.",
   "playback__title": "Многоканальный просмотр",
@@ -606,8 +608,8 @@ const jsonRussian = {
 };
 
 const jsonRussianMeta = {
-  "description": "Видеоплеер, который позволяет одновременно воспроизводить видео на 4 экранах (9 экранов для планшетов). Наслаждайтесь функциями, такими как бесконечный цикл, автоматическое отключение звука и пауза в фоновом режиме, многоканальное воспроизведение, AB-повтор, случайное воспроизведение, плейлисты и пакетное управление. Идеально подходит для углубленного обучения, практики или пересмотра ваших любимых сцен.",
-  "keywords": "видеоплеер, бесконечное воспроизведение, многоканальное воспроизведение, AB-повтор, автоматическое отключение звука, пауза в фоновом режиме, случайное воспроизведение, плейлист, пакетное управление"
+  "description": "Видеоплеер, способный воспроизводить эротические видео на 1-4 экранах одновременно (поддерживается до 9 экранов на планшетах). Он предлагает различные функции, такие как бесконечная петля, автоматическое выключение звука и пауза в фоновом режиме, многосекционное воспроизведение, петля AB, случайное воспроизведение, плейлисты, пакетное управление, идеально подходит для целенаправленного обучения, практики или просмотра любимых сцен.",
+  "keywords": "эротический, взрослый, разделенный экран, nsfw, порно, видеоплеер, неограниченное воспроизведение, многосекционное воспроизведение, петля AB, автоматическое выключение звука, пауза в фоновом режиме, случайное воспроизведение, плейлист, пакетное управление"
 };
 
 const jsonVietnamese = {
@@ -618,8 +620,8 @@ const jsonVietnamese = {
   "feature__nav": "Tính năng",
   "reviews__nav": "Đánh giá",
 
-  "hero_title": "Trình phát video cho người lớn", 
-    "hero_desc": "Chỉ xem một video cùng một lúc? Hãy tận hưởng nhiều video cùng lúc.",
+  "hero_title": "Trình phát video đa năng khiêu dâm",
+      "hero_desc": "Chỉ xem một video mỗi lần? Thật sao? Thưởng thức nhiều video cùng một lúc",
   "watch__title": "Tắt tiếng để an toàn!",
   "watch__desc": "Một sai lầm có thể làm hỏng mọi thứ. Tự động dừng khi chuyển sang chế độ nền.",
   "playback__title": "Phát nhiều màn hình",
@@ -675,8 +677,8 @@ const jsonVietnamese = {
 };
 
 const jsonVietnameseMeta = {
-  "description": "Một trình phát video cho phép phát video vô hạn đồng thời trên tối đa 4 màn hình (9 màn hình cho máy tính bảng). Tận hưởng các tính năng như lặp lại vô hạn, tắt tiếng tự động & dừng khi ở chế độ nền, phát nhiều màn hình, lặp AB, phát ngẫu nhiên & danh sách phát, và điều khiển nhóm. Hoàn hảo cho việc học tập tập trung, luyện tập hoặc xem lại các cảnh yêu thích của bạn.",
-  "keywords": "trình phát video, phát video vô hạn, phát nhiều màn hình, lặp AB, tắt tiếng tự động, dừng khi ở chế độ nền, phát ngẫu nhiên, danh sách phát, điều khiển nhóm"
+  "description": "Trình phát video có khả năng phát video khiêu dâm trên 1-4 màn hình cùng lúc (hỗ trợ tối đa 9 màn hình trên máy tính bảng). Nó cung cấp các tính năng như lặp vô tận, tự động tắt tiếng và tạm dừng nền, phát đa màn hình, vòng lặp AB, phát ngẫu nhiên, danh sách phát, điều khiển hàng loạt, hoàn hảo cho việc học tập tập trung, thực hành hoặc xem lại các cảnh yêu thích của bạn.",
+  "keywords": "khiêu dâm, Người lớn, màn hình chia nhỏ, nsfw, video khiêu dâm, trình phát video, phát không giới hạn, phát đa màn hình, vòng lặp AB, tự động tắt tiếng, tạm dừng nền, phát ngẫu nhiên, danh sách phát, điều khiển hàng loạt"
 };
 
 const jsonItalian = {
@@ -687,8 +689,8 @@ const jsonItalian = {
   "feature__nav": "Caratteristiche",
   "reviews__nav": "Recensioni",
 
-  "hero_title": "Lettore video per adulti", 
-    "hero_desc": "Puoi guardare solo un video alla volta? Goditi più video contemporaneamente.",
+  "hero_title": "Lettore video erotico multi-video",
+      "hero_desc": "Guardi solo un video alla volta? Seriamente? Goditi più video contemporaneamente",
   "watch__title": "Silenzio per Sicurezza!",
   "watch__desc": "Un errore può rovinare tutto. Arresto automatico quando si passa in background.",
   "playback__title": "Multi-Schermo",
@@ -743,8 +745,8 @@ const jsonItalian = {
 };
 
 const jsonItalianMeta = {
-  "description": "Un lettore video che consente la riproduzione infinita di video simultaneamente su fino a 4 schermi (9 schermi per tablet). Goditi funzioni come il ciclo infinito, silenzio automatico e pausa in background, riproduzione multi-schermo, ripetizione AB, riproduzione casuale e playlist, e controllo batch. Ideale per l'apprendimento concentrato, la pratica o il rivisitare le tue scene preferite.",
-  "keywords": "lettore video, riproduzione infinita, riproduzione multi-schermo, ripetizione AB, silenzio automatico, pausa in background, riproduzione casuale, playlist, controllo batch"
+  "description": "Un lettore video in grado di riprodurre video erotici su 1-4 schermi contemporaneamente (supporta fino a 9 schermi sui tablet). Offre varie funzionalità come loop infinito, disattivazione automatica e pausa in background, riproduzione multi-schermo, loop AB, riproduzione casuale, playlist, controllo batch, perfetto per studio concentrato, pratica o per rivedere le tue scene preferite.",
+  "keywords": "erotico, Adulto, schermo diviso, nsfw, porno, lettore video, riproduzione illimitata, riproduzione multi-schermo, loop AB, disattivazione automatica, pausa in background, riproduzione casuale, playlist, controllo batch"
 };
 
 const jsonChineseSimplified = {
@@ -755,8 +757,8 @@ const jsonChineseSimplified = {
   "feature__nav": "功能",
   "reviews__nav": "评论",
 
-  "hero_title": "成人视频播放器", 
-    "hero_desc": "一次只能观看一个视频？同时享受多个视频。",
+  "hero_title": "情色多视频播放器",
+      "hero_desc": "一次只看一个视频？真的吗？同时欣赏多个视频",
   "watch__title": "安全静音！",
   "watch__desc": "一个错误可能会毁掉一切。切换到后台时自动停止播放。",
   "playback__title": "多屏播放",
@@ -810,8 +812,8 @@ const jsonChineseSimplified = {
   "copyright__desc": "版权所有 © 2024 AraOneSoft.co. 保留所有权利。"
 };
 const jsonChineseSimplifiedMeta = {
-  "description": "一个视频播放器，允许在最多4个屏幕（平板电脑上最多9个屏幕）上同时无限播放视频。享受无限循环、自动静音和后台暂停、多屏播放、AB重复、随机播放和播放列表以及批量控制等功能。非常适合专注学习、练习或重温您最喜欢的场景。",
-  "keywords": "视频播放器, 无限播放, 多屏播放, AB重复, 自动静音, 背景暂停, 随机播放, 播放列表, 批量控制"
+  "description": "一款可以在1-4个屏幕上同时播放色情视频的视频播放器（平板电脑最多支持9个屏幕）。它提供无限循环、自动静音和后台暂停、多屏播放、AB循环、随机播放、播放列表、批量控制等多种功能，非常适合专注学习、练习或重温你喜欢的场景。",
+  "keywords": "色情, 成人, 分屏, nsfw, 色情视频, 视频播放器, 无限播放, 多屏播放, AB循环, 自动静音, 后台暂停, 随机播放, 播放列表, 批量控制"
 };
 
 const jsonChineseTraditional = {
@@ -822,8 +824,8 @@ const jsonChineseTraditional = {
   "feature__nav": "功能",
   "reviews__nav": "評論",
 
-  "hero_title": "成人影片播放器", 
-    "hero_desc": "一次只能觀看一個影片？同時欣賞多個影片。",
+  "hero_title": "情色多視訊播放器",
+      "hero_desc": "一次只看一個視訊？認真嗎？同時享受多個視訊",
   "watch__title": "安全靜音！",
   "watch__desc": "一個錯誤可能會毀掉一切。切換到背景時自動停止播放。",
   "playback__title": "多螢幕播放",
@@ -878,8 +880,8 @@ const jsonChineseTraditional = {
 };
 
 const jsonChineseTraditionalMeta = {
-  "description": "一個視頻播放器，允許在最多4個螢幕（平板電腦上最多9個螢幕）上同時無限播放視頻。享受無限循環、自動靜音和背景暫停、多螢幕播放、AB重複、隨機播放和播放清單以及批量控制等功能。非常適合專注學習、練習或重溫您最喜愛的場景。",
-  "keywords": "視頻播放器, 無限播放, 多螢幕播放, AB重複, 自動靜音, 背景暫停, 隨機播放, 播放清單, 批量控制"
+  "description": "一款可以在1-4個螢幕上同時播放色情視頻的視頻播放器（平板電腦最多支持9個螢幕）。它提供無限循環、自動靜音和後台暫停、多屏播放、AB循環、隨機播放、播放列表、批量控制等多種功能，非常適合專注學習、練習或重溫你喜歡的場景。",
+  "keywords": "色情, 成人, 分屏, nsfw, 色情視頻, 視頻播放器, 無限播放, 多屏播放, AB循環, 自動靜音, 後台暫停, 隨機播放, 播放列表, 批量控制"
 };
 
 const jsonArabic = {
@@ -890,8 +892,8 @@ const jsonArabic = {
   "feature__nav": "الميزات",
   "reviews__nav": "التقييمات",
 
-  "hero_title": "مشغل فيديو للكبار", 
-    "hero_desc": "هل يمكنك مشاهدة فيديو واحد فقط في كل مرة؟ استمتع بمقاطع فيديو متعددة في وقت واحد.",
+  "hero_title": "مشغل فيديوهات متعددة إباحية",
+      "hero_desc": "تشاهد فيديو واحد فقط في كل مرة؟ حقاً؟ استمتع بمشاهدة عدة فيديوهات في نفس الوقت",
   "watch__title": "صامت من أجل الأمان!",
   "watch__desc": "قد تدمر خطأ واحد كل شيء. توقف تلقائي عند الانتقال إلى الخلفية.",
   "playback__title": "تشغيل متعدد الشاشات",
@@ -946,8 +948,8 @@ const jsonArabic = {
 };
 
 const jsonArabicMeta = {
-  "description": "مشغل فيديو يتيح التشغيل غير المحدود للفيديوهات في وقت واحد على ما يصل إلى 4 شاشات (9 شاشات للأجهزة اللوحية). استمتع بميزات مثل التكرار غير المحدود، الكتم التلقائي، التوقف في الخلفية، التشغيل متعدد الشاشات، تكرار AB، التشغيل العشوائي وقائمة التشغيل، والتحكم الجماعي. مثالي للتعلم المركز، والممارسة، أو إعادة زيارة مشاهدك المفضلة.",
-  "keywords": "مشغل فيديو، تشغيل غير محدود، تشغيل متعدد الشاشات، تكرار AB، كتم صوت تلقائي، توقف في الخلفية، تشغيل عشوائي، قائمة تشغيل، تحكم جماعي"
+  "description": "مشغل فيديو قادر على تشغيل مقاطع الفيديو الإباحية على 1-4 شاشات في نفس الوقت (يدعم ما يصل إلى 9 شاشات على الأجهزة اللوحية). يقدم ميزات متنوعة مثل التكرار اللانهائي، كتم الصوت التلقائي وإيقاف الخلفية، التشغيل المتعدد الشاشات، تكرار AB، التشغيل العشوائي، قوائم التشغيل، التحكم بالجملة، مما يجعله مثاليًا للدراسة المركزة أو التدريب أو إعادة مشاهدة المشاهد المفضلة لديك.",
+  "keywords": "إباحي, بالغ, تقسيم الشاشة, nsfw, فيديو إباحي, مشغل فيديو, تشغيل غير محدود, تشغيل متعدد الشاشات, تكرار AB, كتم تلقائي, إيقاف الخلفية, تشغيل عشوائي, قائمة التشغيل, تحكم بالجملة"
 };
 
 const jsonCzech = {
@@ -958,8 +960,8 @@ const jsonCzech = {
   "feature__nav": "Funkce",
   "reviews__nav": "Recenze",
 
-  "hero_title": "Videopřehrávač pro dospělé", 
-    "hero_desc": "Můžete sledovat pouze jedno video najednou? Užijte si více videí současně.",
+  "hero_title": "Erotický přehrávač více videí",
+      "hero_desc": "Sledujete vždy jen jedno video? Vážně? Užívejte si několik videí najednou",
   "watch__title": "Ticho pro bezpečnost!",
   "watch__desc": "Jeden chybný krok může všechno zničit. Automatické zastavení při přepnutí do pozadí.",
   "playback__title": "Více obrazovek",
@@ -1014,8 +1016,8 @@ const jsonCzech = {
 };
 
 const jsonCzechMeta = {
-  "description": "Přehrávač videa, který umožňuje nekonečné přehrávání videí současně na až 4 obrazovkách (9 obrazovkách pro tablety). Užijte si funkce jako nekonečné smyčky, automatické ztlumení & pozastavení na pozadí, přehrávání na více obrazovkách, opakování AB, náhodné přehrávání & seznam skladeb a hromadné ovládání. Ideální pro soustředěné učení, cvičení nebo znovu navštívení vašich oblíbených scén.",
-  "keywords": "přehrávač videa, nekonečné přehrávání, přehrávání na více obrazovkách, opakování AB, automatické ztlumení, pozastavení na pozadí, náhodné přehrávání, seznam skladeb, hromadné ovládání"
+  "description": "Video přehrávač schopný neomezeného přehrávání erotických videí na 1-4 obrazovkách současně (na tabletech podporováno až 9 obrazovek). Nabízí různé funkce, jako je nekonečná smyčka, automatické ztlumení a pozastavení na pozadí, přehrávání na více obrazovkách, smyčka AB, náhodné přehrávání, seznamy skladeb a hromadné ovládání, což je ideální pro soustředěné učení, trénink nebo opětovné sledování oblíbených scén.",
+  "keywords": "erotické, Dospělý, rozdělená obrazovka, nsfw, porno, video přehrávač, neomezené přehrávání, přehrávání na více obrazovkách, AB smyčka, automatické ztlumení, pozastavení na pozadí, náhodné přehrávání, seznam skladeb, hromadné ovládání"
 };
 
 const jsonCroatian = {
@@ -1026,8 +1028,8 @@ const jsonCroatian = {
   "feature__nav": "Značajke",
   "reviews__nav": "Recenzije",
 
-  "hero_title": "Video player za odrasle", 
-    "hero_desc": "Možete li gledati samo jedan video u isto vrijeme? Uživajte u više videozapisa istovremeno.",
+  "hero_title": "Erotski multivideo player",
+      "hero_desc": "Gledate samo jedan video odjednom? Ozbiljno? Uživajte u više videa istovremeno",
   "watch__title": "Tiho za sigurnost!",
   "watch__desc": "Jedna pogreška može sve uništiti. Automatsko zaustavljanje prilikom prelaska u pozadinu.",
   "playback__title": "Više ekrana",
@@ -1082,8 +1084,8 @@ const jsonCroatian = {
 };
 
 const jsonCroatianMeta = {
-  "description": "Video player koji omogućuje beskonačno reprodukciju videa istovremeno na do 4 ekrana (9 ekrana za tablete). Uživajte u funkcijama kao što su beskonačno ponavljanje, automatsko tiho & pauza u pozadini, reprodukcija na više ekrana, AB ponavljanje, nasumično reprodukcija & playlista, i hromadno upravljanje. Idealno za fokusirano učenje, vježbanje ili ponovno gledanje vaših omiljenih scena.",
-  "keywords": "video player, beskonačno ponavljanje, reprodukcija na više ekrana, AB ponavljanje, automatsko tiho, pauza u pozadini, nasumično reprodukcija, playlista, hromadno upravljanje"
+  "description": "Video player sposoban za neograničeno reproduciranje erotskih videa na 1-4 zaslona istovremeno (do 9 zaslona podržano na tabletima). Nudi razne značajke poput beskonačne petlje, automatskog isključivanja zvuka i pauze u pozadini, reprodukcije na više zaslona, AB petlje, nasumične reprodukcije, popisa za reprodukciju, grupne kontrole, savršeno za fokusirano učenje, vježbanje ili ponovno gledanje omiljenih scena.",
+  "keywords": "erotski, Odrasli, podijeljeni zaslon, nsfw, porno, video player, neograničeno reproduciranje, reprodukcija na više zaslona, AB petlja, automatsko isključivanje zvuka, pauza u pozadini, nasumična reprodukcija, popis za reprodukciju, grupna kontrola"
 };
 
 const jsonDanish = {
@@ -1094,8 +1096,8 @@ const jsonDanish = {
   "feature__nav": "Funktioner",
   "reviews__nav": "Anmeldelser",
 
-  "hero_title": "Videospiller til voksne", 
-    "hero_desc": "Kan du kun se én video ad gangen? Nyd flere videoer samtidig.",
+  "hero_title": "Erotisk multivideoafspiller",
+      "hero_desc": "Ser du kun én video ad gangen? Seriøst? Nyd flere videoer samtidig",
   "watch__title": "Lydløs for sikkerhed!",
   "watch__desc": "Én fejl kan ødelægge alt. Auto-stop når du skifter til baggrunden.",
   "playback__title": "Flere skærme",
@@ -1150,8 +1152,8 @@ const jsonDanish = {
 };
 
 const jsonDanishMeta = {
-  "description": "En videoafspiller der tillader uendelig afspilning af videoer samtidigt på op til 4 skærme (9 skærme for tablets). Nyd funktioner som uendelig loop, auto mute & baggrundspause, multi-skærm afspilning, AB gentagelse, random play & playlist, og batch kontrol. Ideel til fokuseret læring, øvelse eller genbesøg af dine yndlingsscener.",
-  "keywords": "videoafspiller, uendelig afspilning, multi-skærm afspilning, AB gentagelse, auto mute, baggrundspause, random play, playlist, batch kontrol"
+  "description": "En videospiller, der er i stand til at afspille erotiske videoer på 1-4 skærme samtidig (understøtter op til 9 skærme på tablets). Den tilbyder forskellige funktioner såsom uendelig sløjfe, automatisk lydløsning og baggrundspause, multiscreen-afspilning, AB-sløjfe, shuffle-afspilning, afspilningslister og batchkontrol, perfekt til fokuseret studium, øvelse eller genoplev dine yndlingsscener.",
+  "keywords": "erotisk, voksen, delt skærm, nsfw, porno, videospiller, ubegrænset afspilning, multiscreen afspilning, AB-sløjfe, automatisk lydløs, baggrundspause, shuffle afspilning, afspilningsliste, batchkontrol"
 };
 
 const jsonFinnish = {
@@ -1162,8 +1164,8 @@ const jsonFinnish = {
   "feature__nav": "Ominaisuudet",
   "reviews__nav": "Arvostelut",
 
-  "hero_title": "Videonsoitin aikuisille", 
-    "hero_desc": "Voitko katsella vain yhtä videota kerrallaan? Nauti useista videoista samanaikaisesti.",
+  "hero_title": "Eroottinen monivideonsoitin",
+      "hero_desc": "Katsotko vain yhtä videota kerrallaan? Oikeasti? Nauti useista videoista samanaikaisesti",
   "watch__title": "Äänetön turvallisuuden vuoksi!",
   "watch__desc": "Yksi virhe voi tuhota kaiken. Automaattinen pysäytys siirryttäessä taustalle.",
   "playback__title": "Moninäyttö",
@@ -1218,8 +1220,8 @@ const jsonFinnish = {
 };
 
 const jsonFinnishMeta = {
-  "description": "Video-soitin, joka sallii videoiden rajattoman toiston samanaikaisesti jopa 4 näytöllä (9 näytöllä tableteilla). Nauti toiminnoista, kuten rajaton toisto, automaattinen mykistys & taustapysäytys, moninäyttötoisto, AB-toisto, satunnainen toisto & soittolista, ja massahallinta. Täydellinen keskittymiseen, harjoitteluun tai suosikkikohtauksesi katsomiseen uudelleen.",
-  "keywords": "video-soitin, rajaton toisto, moninäyttötoisto, AB-toisto, automaattinen mykistys, taustapysäytys, satunnainen toisto, soittolista, massahallinta"
+  "description": "Videonsoitin, joka pystyy toistamaan eroottisia videoita 1-4 näytöllä samanaikaisesti (tableteissa jopa 9 näyttöä tuettuna). Se tarjoaa useita toimintoja, kuten loputtoman toiston, automaattisen mykistyksen ja taustalla keskeytyksen, moninäyttötoiston, AB-toiston, satunnaistoiston, soittolistat ja eräohjauksen, mikä sopii täydellisesti keskittyneeseen opiskeluun, harjoitteluun tai suosikkikohtausten katseluun uudelleen.",
+  "keywords": "eroottinen, aikuinen, jaettu näyttö, nsfw, porno, videosoitin, rajoittamaton toisto, moninäyttötoisto, AB-toisto, automaattinen mykistys, taustakeskeytys, satunnaistoisto, soittolista, eräohjaus"
 };
 
 const jsonGreek = {
@@ -1230,8 +1232,8 @@ const jsonGreek = {
   "feature__nav": "Χαρακτηριστικά",
   "reviews__nav": "Κριτικές",
 
-  "hero_title": "Πρόγραμμα αναπαραγωγής βίντεο για ενήλικες", 
-    "hero_desc": "Μπορείτε να παρακολουθήσετε μόνο ένα βίντεο κάθε φορά; Απολαύστε πολλά βίντεο ταυτόχρονα.",
+  "hero_title": "Ερωτική συσκευή αναπαραγωγής πολλαπλών βίντεο",
+      "hero_desc": "Βλέπετε μόνο ένα βίντεο κάθε φορά; Σοβαρά; Απολαύστε πολλαπλά βίντεο ταυτόχρονα",
   "watch__title": "Σιωπηλό για ασφάλεια!",
   "watch__desc": "Μία λάθος κίνηση μπορεί να καταστρέψει τα πάντα. Αυτόματη διακοπή όταν μεταβαίνετε στο παρασκήνιο.",
   "playback__title": "Πολλαπλές οθόνες",
@@ -1286,8 +1288,8 @@ const jsonGreek = {
 };
 
 const jsonGreekMeta = {
-  "description": "Παίκτης βίντεο που επιτρέπει την απεριόριστη αναπαραγωγή βίντεο ταυτόχρονα σε έως και 4 οθόνες (9 οθόνες σε ταμπλέτες). Απολαύστε χαρακτηριστικά όπως απεριόριστη αναπαραγωγή, αυτόματη σίγαση & παύση στο παρασκήνιο, αναπαραγωγή πολλών οθονών, επανάληψη AB, τυχαία αναπαραγωγή & λίστα αναπαραγωγής, και μαζική διαχείριση. Ιδανικό για συγκέντρωση, προπόνηση ή επαναλαμβανόμενη παρακολούθηση αγαπημένων σκηνών.",
-  "keywords": "παίκτης βίντεο, απεριόριστη αναπαραγωγή, αναπαραγωγή πολλών οθονών, επανάληψη AB, αυτόματη σίγαση, παύση στο παρασκήνιο, τυχαία αναπαραγωγή, λίστα αναπαραγωγής, μαζική διαχείριση"
+  "description": "Ένας βιντεοπαικτης που μπορεί να αναπαράγει ερωτικά βίντεο σε 1-4 οθόνες ταυτόχρονα (υποστηρίζονται έως και 9 οθόνες στα tablet). Προσφέρει διάφορες λειτουργίες, όπως άπειρη επανάληψη, αυτόματη σίγαση και παύση στο παρασκήνιο, αναπαραγωγή πολλαπλών οθονών, επανάληψη AB, τυχαία αναπαραγωγή, λίστες αναπαραγωγής και μαζικό έλεγχο, ιδανικό για εστιασμένη μελέτη, εξάσκηση ή προβολή των αγαπημένων σας σκηνών.",
+  "keywords": "ερωτικό, ενήλικος, διαχωρισμένη οθόνη, nsfw, πορνό, βιντεοπαικτης, απεριόριστη αναπαραγωγή, αναπαραγωγή πολλαπλών οθονών, επανάληψη AB, αυτόματη σίγαση, παύση στο παρασκήνιο, τυχαία αναπαραγωγή, λίστα αναπαραγωγής, μαζικός έλεγχος"
 };
 
 const jsonHebrew = {
@@ -1298,8 +1300,8 @@ const jsonHebrew = {
   "feature__nav": "תכונות",
   "reviews__nav": "ביקורות",
 
-  "hero_title": "נגן וידאו למבוגרים", 
-    "hero_desc": "אפשר לצפות רק בסרטון אחד בכל פעם? תהנה מכמה סרטונים בו זמנית.",
+  "hero_title": "נגן וידאו ארוטי מרובה",
+      "hero_desc": "צופה רק בסרטון אחד בכל פעם? ברצינות? תהנה ממספר סרטונים בו זמנית",
   "watch__title": "שקט בשביל הביטחון!",
   "watch__desc": "תנועה לא נכונה יכולה להרוס הכל. הפסקה אוטומטית כאשר אתה עובר לרקע.",
   "playback__title": "מסכים מרובים",
@@ -1354,8 +1356,8 @@ const jsonHebrew = {
 };
 
 const jsonHebrewMeta = {
-  "description": "נגן וידאו שמאפשר השמעה בלתי מוגבלת של סרטונים בו זמנית עד ל-4 מסכים (9 מסכים בטאבלטים). תהנה מהתכונות כמו השמעה בלתי מוגבלת, השתקה אוטומטית & הפסקה ברקע, השמעה במספר מסכים, חזרת AB, השמעה רנדומלית & רשימת השמעה, וניהול המוני. אידיאלי לצפייה קבוצתית, אימונים או צפייה חוזרת בסצנות אהובות.",
-  "keywords": "נגן וידאו, השמעה בלתי מוגבלת, השמעה במספר מסכים, חזרת AB, השתקה אוטומטית, הפסקה ברקע, השמעה רנדומלית, רשימת השמעה, ניהול המוני"
+  "description": "נגן וידאו שמסוגל להפעיל סרטונים אירוטיים על 1-4 מסכים בו זמנית (תומך עד 9 מסכים בטאבלטים). הוא מציע פונקציות שונות כמו לולאה אינסופית, השתקה אוטומטית והשהיה ברקע, הפעלה במסך מרובה, לולאת AB, הפעלה אקראית, רשימות השמעה ובקרת אצווה, מושלם ללימוד ממוקד, תרגול או צפייה חוזרת בסצנות המועדפות עליך.",
+  "keywords": "אירוטי, למבוגרים, מסך מפוצל, nsfw, פורנו, נגן וידאו, הפעלה בלתי מוגבלת, הפעלה במסך מרובה, לולאת AB, השתקה אוטומטית, השהיה ברקע, הפעלה אקראית, רשימת השמעה, בקרת אצווה"
 };
 
 const jsonHindi = {
@@ -1366,8 +1368,8 @@ const jsonHindi = {
   "feature__nav": "विशेषताएँ",
   "reviews__nav": "समीक्षाएँ",
 
-  "hero_title": "वयस्कों के लिए वीडियो प्लेयर", 
-    "hero_desc": "क्या आप एक समय में केवल एक वीडियो देख सकते हैं? एक साथ कई वीडियो का आनंद लें।",
+  "hero_title": "एरोटिक मल्टी वीडियो प्लेयर",
+      "hero_desc": "एक समय में केवल एक वीडियो देखते हैं? गंभीरता से? कई वीडियो एक साथ देखें",
   "watch__title": "सुरक्षा के लिए म्यूट!",
   "watch__desc": "एक गलती सब कुछ बर्बाद कर सकती है। पृष्ठभूमि में स्विच करते समय ऑटो-स्टॉप।",
   "playback__title": "मल्टी-स्क्रीन",
@@ -1422,8 +1424,8 @@ const jsonHindi = {
 };
 
 const jsonHindiMeta = {
-  "description": "एक वीडियो प्लेयर जो एक साथ 4 स्क्रीन (टैबलेट पर 9 स्क्रीन) पर वीडियो की अनंत प्लेबैक की अनुमति देता है। असीमित लूप, ऑटो म्यूट और बैकग्राउंड पॉज़, मल्टी-स्क्रीन प्लेबैक, AB रिपीट, रैंडम प्ले और प्लेलिस्ट, और बैच कंट्रोल जैसी सुविधाओं का आनंद लें। ध्यान केंद्रित करने, अभ्यास करने या पसंदीदा दृश्यों को फिर से देखने के लिए आदर्श।",
-  "keywords": "वीडियो प्लेयर, असीमित प्लेबैक, मल्टी-स्क्रीन प्लेबैक, AB रिपीट, ऑटो म्यूट, बैकग्राउंड पॉज़, रैंडम प्ले, प्लेलिस्ट, बैच कंट्रोल"
+  "description": "एक वीडियो प्लेयर जो 1-4 स्क्रीन पर एक साथ इरोटिक वीडियो प्ले कर सकता है (टैबलेट पर 9 स्क्रीन तक समर्थित)। यह कई फ़ीचर्स प्रदान करता है जैसे कि अनंत लूप, ऑटोमैटिक म्यूट और बैकग्राउंड पॉज़, मल्टी-स्क्रीन प्लेबैक, AB लूप, शफल प्लेबैक, प्लेलिस्ट और बैच कंट्रोल, जो केंद्रित अध्ययन, अभ्यास, या अपने पसंदीदा सीन को फिर से देखने के लिए एकदम सही है।",
+  "keywords": "इरोटिक, एडल्ट, स्प्लिट स्क्रीन, nsfw, पोर्न, वीडियो प्लेयर, अनलिमिटेड प्लेबैक, मल्टी-स्क्रीन प्लेबैक, AB लूप, ऑटोमैटिक म्यूट, बैकग्राउंड पॉज़, शफल प्लेबैक, प्लेलिस्ट, बैच कंट्रोल"
 };
 
 const jsonHungarian = {
@@ -1434,8 +1436,8 @@ const jsonHungarian = {
   "feature__nav": "Jellemzők",
   "reviews__nav": "Vélemények",
 
-  "hero_title": "Videólejátszó felnőtteknek", 
-    "hero_desc": "Csak egy videót nézhetsz egyszerre? Élvezd több videót egyszerre.",
+  "hero_title": "Erotikus többvideós lejátszó",
+      "hero_desc": "Csak egy videót nézel egyszerre? Komolyan? Élvezd egyszerre több videót",
   "watch__title": "Némítás biztonság érdekében!",
   "watch__desc": "Egy hiba mindent tönkretehet. Automatikus leállás, amikor a háttérbe vált.",
   "playback__title": "Több képernyős",
@@ -1490,8 +1492,8 @@ const jsonHungarian = {
 };
 
 const jsonHungarianMeta = {
-  "description": "Egy videólejátszó, amely lehetővé teszi a videók végtelen lejátszását akár 4 képernyőn (9 képernyőn táblagépeken) egyszerre. Élvezd a végtelen ismétlés, automatikus némítás és háttérben való leállítás, több képernyős lejátszás, AB ismétlés, véletlenszerű lejátszás és lejátszási lista, valamint tételes vezérlés funkciókat. Ideális fókuszált tanuláshoz, gyakorláshoz vagy kedvenc jeleneteid újranézéséhez.",
-  "keywords": "videólejátszó, végtelen lejátszás, több képernyős lejátszás, AB ismétlés, automatikus némítás, háttér leállítás, véletlenszerű lejátszás, lejátszási lista, tételes vezérlés"
+  "description": "Egy videolejátszó, amely egyszerre képes erotikus videókat lejátszani 1-4 képernyőn (támogatott akár 9 képernyő tableteken). Számos funkciót kínál, mint például végtelen ismétlés, automatikus némítás és háttérszünet, többképernyős lejátszás, AB ismétlés, véletlenszerű lejátszás, lejátszási listák és kötegelt vezérlés, tökéletes fókuszált tanuláshoz, gyakorláshoz vagy kedvenc jeleneteid újranézéséhez.",
+  "keywords": "erotikus, felnőtt, osztott képernyő, nsfw, pornó, videolejátszó, korlátlan lejátszás, többképernyős lejátszás, AB ismétlés, automatikus némítás, háttérszünet, véletlenszerű lejátszás, lejátszási lista, kötegelt vezérlés"
 };
 
 const jsonIndonesian = {
@@ -1502,8 +1504,8 @@ const jsonIndonesian = {
   "feature__nav": "Fitur",
   "reviews__nav": "Ulasan",
 
-  "hero_title": "Pemutar video untuk dewasa", 
-    "hero_desc": "Hanya bisa menonton satu video sekaligus? Nikmati beberapa video sekaligus.",
+  "hero_title": "Pemutar Video Multi Erotis",
+      "hero_desc": "Hanya menonton satu video sekaligus? Serius? Nikmati banyak video secara bersamaan",
   "watch__title": "Matikan untuk Keamanan!",
   "watch__desc": "Satu kesalahan dapat merusak segalanya. Berhenti otomatis saat beralih ke latar belakang.",
   "playback__title": "Multi-Ekran",
@@ -1558,8 +1560,8 @@ const jsonIndonesian = {
 };
 
 const jsonIndonesianMeta = {
-  "description": "Pemutar video yang memungkinkan pemutaran video secara tak terbatas secara bersamaan di hingga 4 layar (9 layar untuk tablet). Nikmati fitur seperti pengulangan tak terbatas, mute otomatis & jeda latar belakang, pemutaran multi-layar, pengulangan AB, pemutaran acak & daftar putar, dan kontrol batch. Ideal untuk pembelajaran yang fokus, latihan, atau menonton kembali adegan favoritmu.",
-  "keywords": "pemutar video, pemutaran tak terbatas, pemutaran multi-layar, pengulangan AB, mute otomatis, jeda latar belakang, pemutaran acak, daftar putar, kontrol batch"
+  "description": "Pemutar video yang mampu memutar video erotis di 1-4 layar secara bersamaan (mendukung hingga 9 layar di tablet). Ini menawarkan berbagai fungsi seperti putaran tak terbatas, senyap otomatis, dan jeda latar belakang, pemutaran multi-layar, putaran AB, pemutaran acak, daftar putar, dan kontrol batch, sangat cocok untuk belajar fokus, latihan, atau menonton kembali adegan favorit Anda.",
+  "keywords": "erotis, dewasa, layar terpisah, nsfw, porno, pemutar video, pemutaran tak terbatas, pemutaran multi-layar, putaran AB, senyap otomatis, jeda latar belakang, pemutaran acak, daftar putar, kontrol batch"
 };
 
 const jsonMalay = {
@@ -1570,8 +1572,8 @@ const jsonMalay = {
   "feature__nav": "Ciri",
   "reviews__nav": "Ulasan",
 
-  "hero_title": "Pemain video untuk dewasa", 
-    "hero_desc": "Hanya boleh menonton satu video pada satu masa? Nikmati beberapa video serentak.",
+  "hero_title": "Pemain Video Multi Erotik",
+      "hero_desc": "Hanya menonton satu video pada satu masa? Serius? Nikmati pelbagai video serentak",
   "watch__title": "Matikan untuk Keselamatan!",
   "watch__desc": "Satu kesilapan boleh merosakkan segalanya. Berhenti secara automatik apabila beralih ke latar belakang.",
   "playback__title": "Multi-Skrin",
@@ -1626,8 +1628,8 @@ const jsonMalay = {
 };
 
 const jsonMalayMeta = {
-  "description": "Pemain video yang membolehkan pemutaran video secara tidak terhad serentak di sehingga 4 skrin (9 skrin untuk tablet). Nikmati ciri seperti pengulangan tanpa had, mute automatik & jeda latar belakang, pemutaran multi-skrin, pengulangan AB, main rawak & senarai main, dan kawalan kumpulan. Sesuai untuk pembelajaran yang fokus, latihan, atau menonton semula adegan kegemaran anda.",
-  "keywords": "pemain video, pemutaran tanpa had, pemutaran multi-skrin, pengulangan AB, mute automatik, jeda latar belakang, main rawak, senarai main, kawalan kumpulan"
+  "description": "Pemain video yang boleh memainkan video erotik pada 1-4 skrin secara serentak (menyokong sehingga 9 skrin pada tablet). Ia menawarkan pelbagai fungsi seperti gelung tanpa had, senyap automatik dan jeda latar belakang, main semula multi-skrin, gelung AB, main semula rawak, senarai main dan kawalan kelompok, sesuai untuk pembelajaran yang fokus, latihan, atau menonton semula babak kegemaran anda.",
+  "keywords": "erotik, dewasa, skrin berpecah, nsfw, porno, pemain video, main semula tanpa had, main semula multi-skrin, gelung AB, senyap automatik, jeda latar belakang, main semula rawak, senarai main, kawalan kelompok"
 };
 
 const jsonPolish = {
@@ -1638,8 +1640,8 @@ const jsonPolish = {
   "feature__nav": "Funkcje",
   "reviews__nav": "Opinie",
 
-  "hero_title": "Odtwarzacz wideo dla dorosłych", 
-   "hero_desc": "Możesz oglądać tylko jeden film na raz? Ciesz się wieloma filmami jednocześnie.",
+  "hero_title": "Erotyczny odtwarzacz wideo wielokrotnego odtwarzania",
+      "hero_desc": "Oglądasz tylko jedno wideo na raz? Serio? Ciesz się wieloma filmami jednocześnie",
   "watch__title": "Wyłącz dźwięk dla bezpieczeństwa!",
   "watch__desc": "Jedno niedopatrzenie może zepsuć wszystko. Automatyczne zatrzymywanie przy przejściu w tle.",
   "playback__title": "Wieloscreenowy",
@@ -1694,8 +1696,8 @@ const jsonPolish = {
 };
 
 const jsonPolishMeta = {
-  "description": "Odtwarzacz wideo, który umożliwia nieograniczone odtwarzanie filmów jednocześnie na maksymalnie 4 ekranach (9 ekranach dla tabletów). Ciesz się funkcjami takimi jak nieograniczone powtórzenie, automatyczne wyciszanie i zatrzymywanie w tle, odtwarzanie na wielu ekranach, powtórzenie AB, losowe odtwarzanie i lista odtwarzania oraz kontrola grupowa. Idealny do skoncentrowanego uczenia się, ćwiczeń lub oglądania ulubionych scen.",
-  "keywords": "odtwarzacz wideo, nieograniczone odtwarzanie, odtwarzanie na wielu ekranach, powtórzenie AB, automatyczne wyciszanie, zatrzymywanie w tle, losowe odtwarzanie, lista odtwarzania, kontrola grupowa"
+  "description": "Odtwarzacz wideo, który może odtwarzać erotyczne wideo na 1-4 ekranach jednocześnie (obsługuje do 9 ekranów na tabletach). Oferuje wiele funkcji, takich jak nieskończona pętla, automatyczne wyciszenie i pauza w tle, odtwarzanie na wielu ekranach, pętla AB, odtwarzanie losowe, listy odtwarzania i kontrola wsadowa, idealny do skoncentrowanego uczenia się, ćwiczeń lub ponownego oglądania ulubionych scen.",
+  "keywords": "erotyczne, dorosłe, ekran dzielony, nsfw, porno, odtwarzacz wideo, nieskończone odtwarzanie, odtwarzanie na wielu ekranach, pętla AB, automatyczne wyciszenie, pauza w tle, odtwarzanie losowe, lista odtwarzania, kontrola wsadowa"
 };
 
 const jsonRomanian = {
@@ -1706,8 +1708,8 @@ const jsonRomanian = {
   "feature__nav": "Funcții",
   "reviews__nav": "Recenzii",
 
-  "hero_title": "Player video pentru adulți", 
-  "hero_desc": "Poți viziona doar un videoclip deodată? Bucură-te de mai multe videoclipuri simultan.",
+  "hero_title": "Player video erotic multi",
+      "hero_desc": "Vizionați un singur videoclip pe rând? Serios? Bucurați-vă de mai multe videoclipuri simultan",
   "watch__title": "Fără sunet pentru siguranță!",
   "watch__desc": "O greșeală poate strica totul. Oprire automată când treceți în fundal.",
   "playback__title": "Multiple Ecrane",
@@ -1762,8 +1764,8 @@ const jsonRomanian = {
 };
 
 const jsonRomanianMeta = {
-  "description": "Un player video care permite redarea infinită a videoclipurilor simultan pe până la 4 ecrane (9 ecrane pentru tablete). Bucurați-vă de funcții precum repetare infinită, oprire automată și muțire în fundal, redare pe mai multe ecrane, repetare AB, redare aleatorie și listă de redare, și control de grup. Ideal pentru învățare concentrată, practică sau revizuirea scenelor preferate.",
-  "keywords": "player video, redare infinită, redare pe mai multe ecrane, repetare AB, muțire automată, oprire în fundal, redare aleatorie, listă de redare, control de grup"
+  "description": "Un player video care poate reda videoclipuri erotice pe 1-4 ecrane simultan (suportă până la 9 ecrane pe tablete). Oferă mai multe funcții, cum ar fi bucla infinită, mod automat de silențios și pauză în fundal, redare pe mai multe ecrane, buclă AB, redare aleatorie, liste de redare și control de grup, perfect pentru studiu concentrat, practică sau vizionarea din nou a scenelor preferate.",
+  "keywords": "erotic, adult, ecran împărțit, nsfw, pornografie, player video, redare nelimitată, redare pe mai multe ecrane, buclă AB, mod automat de silențios, pauză în fundal, redare aleatorie, listă de redare, control de grup"
 };
 
 const jsonSlovak = {
@@ -1774,8 +1776,8 @@ const jsonSlovak = {
   "feature__nav": "Funkcie",
   "reviews__nav": "Recenzie",
 
-  "hero_title": "Videoprehrávač pre dospelých", 
-  "hero_desc": "Môžete sledovať iba jedno video naraz? Užite si viac videí súčasne.",
+  "hero_title": "Erotický prehrávač viacerých videí",
+      "hero_desc": "Sledujete iba jedno video naraz? Vážne? Užívajte si viacero videí súčasne",
   "watch__title": "Tichý pre bezpečnosť!",
   "watch__desc": "Jedna chyba môže pokaziť všetko. Automatické zastavenie pri prechode na pozadie.",
   "playback__title": "Viac obrazoviek",
@@ -1830,8 +1832,8 @@ const jsonSlovak = {
 };
 
 const jsonSlovakMeta = {
-  "description": "Video prehrávač, ktorý umožňuje nekonečné prehrávanie videí súčasne na až 4 obrazovkách (9 obrazoviek pre tablety). Užívajte si funkcie ako nekonečné opakovanie, automatické stíšenie a pozastavenie na pozadí, prehrávanie na viacerých obrazovkách, opakovanie AB, náhodné prehrávanie a playlisty, a hromadnú kontrolu. Ideálne pre zamerané učenie, prax alebo opätovné prezeranie vašich obľúbených scén.",
-  "keywords": "prehrávač videa, nekonečné prehrávanie, prehrávanie na viacerých obrazovkách, opakovanie AB, automatické stíšenie, pozastavenie na pozadí, náhodné prehrávanie, playlisty, hromadná kontrola"
+  "description": "Prehrávač videí, ktorý dokáže prehrávať erotické videá na 1-4 obrazovkách súčasne (podporuje až 9 obrazoviek na tabletoch). Ponúka rôzne funkcie, ako napríklad nekonečné slučky, automatické stlmenie a pozastavenie na pozadí, viacobrazovkový režim, slučka AB, náhodné prehrávanie, zoznamy skladieb a dávkové ovládanie, ideálny na sústredené štúdium, cvičenie alebo opätovné sledovanie obľúbených scén.",
+  "keywords": "erotické, dospelí, rozdelená obrazovka, nsfw, porno, prehrávač videí, neobmedzené prehrávanie, viacobrazovkové prehrávanie, slučka AB, automatické stlmenie, pozastavenie na pozadí, náhodné prehrávanie, zoznam skladieb, dávkové ovládanie"
 };
 
 const jsonSwedish = {
@@ -1842,8 +1844,8 @@ const jsonSwedish = {
   "feature__nav": "Funktioner",
   "reviews__nav": "Recensioner",
 
-  "hero_title": "Videospelare för vuxna", 
-  "hero_desc": "Kan du bara se ett video åt gången? Njut av flera videor samtidigt.",
+  "hero_title": "Erotisk multivideospelare",
+      "hero_desc": "Tittar du bara på en video åt gången? Seriöst? Njut av flera videor samtidigt",
   "watch__title": "Tyst för säkerhet!",
   "watch__desc": "Ett misstag kan förstöra allt. Automatisk stopp när du växlar till bakgrunden.",
   "playback__title": "Flera skärmar",
@@ -1898,8 +1900,8 @@ const jsonSwedish = {
 };
 
 const jsonSwedishMeta = {
-  "description": "En video player som möjliggör oändlig uppspelning av videor samtidigt på upp till 4 skärmar (9 skärmar för surfplattor). Njut av funktioner som oändlig loop, automatisk tystnad & bakgrundspaus, flera skärmar, AB-upprepning, slumpmässig uppspelning & spellista, och batchkontroll. Idealisk för fokuserat lärande, övning eller att återbesöka dina favoritscener.",
-  "keywords": "video player, oändlig uppspelning, flera skärmar, AB-upprepning, automatisk tystnad, bakgrundspaus, slumpmässig uppspelning, spellista, batchkontroll"
+  "description": "En videospelare som kan spela erotiska videor på 1-4 skärmar samtidigt (stöder upp till 9 skärmar på surfplattor). Den erbjuder flera funktioner som oändlig loop, automatisk ljudlös och bakgrundspaus, flerbildsuppspelning, AB-loop, slumpmässig uppspelning, spellistor och batchkontroll, perfekt för fokuserat lärande, övning eller för att se dina favoritscener igen.",
+  "keywords": "erotisk, vuxen, delad skärm, nsfw, porr, videospelare, obegränsad uppspelning, flerbildsuppspelning, AB-loop, automatisk ljudlös, bakgrundspaus, slumpmässig uppspelning, spellista, batchkontroll"
 };
 
 const jsonThai = {
@@ -1910,8 +1912,8 @@ const jsonThai = {
   "feature__nav": "ฟีเจอร์",
   "reviews__nav": "รีวิว",
 
-  "hero_title": "เครื่องเล่นวิดีโอสำหรับผู้ใหญ่", 
-  "hero_desc": "คุณสามารถดูได้แค่ครั้งละหนึ่งวิดีโอ? เพลิดเพลินกับวิดีโอหลายรายการพร้อมกัน",
+  "hero_title": "เครื่องเล่นวิดีโอหลายรายการที่เร้าอารมณ์",
+      "hero_desc": "ดูวิดีโอครั้งละหนึ่งวิดีโอ? จริงเหรอ? เพลิดเพลินกับวิดีโอหลายรายการพร้อมกัน",
   "watch__title": "ปิดเสียงเพื่อความปลอดภัย!",
   "watch__desc": "ความผิดพลาดเพียงครั้งเดียวอาจทำลายทุกอย่างได้ ปิดการเล่นอัตโนมัติเมื่อสลับไปที่พื้นหลัง",
   "playback__title": "หลายหน้าจอ",
@@ -1966,8 +1968,8 @@ const jsonThai = {
 };
 
 const jsonThaiMeta = {
-  "description": "เครื่องเล่นวิดีโอที่อนุญาตให้เล่นวิดีโอได้ไม่จำกัดพร้อมกันสูงสุด 4 หน้าจอ (9 หน้าจอสำหรับแท็บเล็ต) เพลิดเพลินกับฟีเจอร์ต่าง ๆ เช่น การเล่นซ้ำไม่สิ้นสุด, การปิดเสียงอัตโนมัติ & การหยุดเล่นในพื้นหลัง, การเล่นหลายหน้าจอ, การเล่นซ้ำ AB, การเล่นแบบสุ่ม & เพลย์ลิสต์, และการควบคุมแบทช์ เหมาะสำหรับการเรียนรู้ที่มุ่งเน้น, การฝึกฝน, หรือการกลับมาดูฉากที่คุณชื่นชอบอีกครั้ง",
-  "keywords": "เครื่องเล่นวิดีโอ, การเล่นซ้ำไม่สิ้นสุด, การเล่นหลายหน้าจอ, การเล่นซ้ำ AB, การปิดเสียงอัตโนมัติ, การหยุดเล่นในพื้นหลัง, การเล่นแบบสุ่ม, เพลย์ลิสต์, การควบคุมแบทช์"
+  "description": "ผู้เล่นวิดีโอที่สามารถเล่นวิดีโอที่มีเนื้อหาอีโรติกได้บน 1-4 หน้าจอพร้อมกัน (รองรับสูงสุด 9 หน้าจอบนแท็บเล็ต) มีฟังก์ชันหลายอย่าง เช่น การวนซ้ำไม่จำกัด, การปิดเสียงอัตโนมัติและการหยุดชั่วคราวในพื้นหลัง, การเล่นหลายหน้าจอ, การวนซ้ำ AB, การเล่นแบบสุ่ม, รายการเล่นและการควบคุมกลุ่ม, เหมาะสำหรับการเรียนรู้ที่มุ่งเน้น, การฝึกฝน หรือการดูฉากโปรดของคุณซ้ำอีกครั้ง.",
+  "keywords": "อีโรติก, ผู้ใหญ่, หน้าจอแยก, nsfw, หนังโป๊, เครื่องเล่นวิดีโอ, การเล่นไม่จำกัด, การเล่นหลายหน้าจอ, การวนซ้ำ AB, การปิดเสียงอัตโนมัติ, การหยุดชั่วคราวในพื้นหลัง, การเล่นแบบสุ่ม, รายการเล่น, การควบคุมกลุ่ม"
 };
 
 const jsonTurkish = {
@@ -1978,8 +1980,8 @@ const jsonTurkish = {
   "feature__nav": "Özellikler",
   "reviews__nav": "Yorumlar",
 
-  "hero_title": "Yetişkinler için video oynatıcı", 
-  "hero_desc": "Bir seferde sadece bir video mu izleyebilirsiniz? Aynı anda birden fazla videodan keyif alın.",
+  "hero_title": "Erotik Çoklu Video Oynatıcı",
+      "hero_desc": "Sadece bir videoyu aynı anda mı izliyorsunuz? Cidden mi? Aynı anda birden fazla videonun tadını çıkarın",
   "watch__title": "Güvenlik İçin Sessiz Mod!",
   "watch__desc": "Tek bir hata her şeyi mahvedebilir. Arka plana geçerken otomatik duraklatma.",
   "playback__title": "Çoklu Ekran",
@@ -2034,8 +2036,8 @@ const jsonTurkish = {
 };
 
 const jsonTurkishMeta = {
-  "description": "4 ekranda (tabletlerde 9 ekrana kadar) aynı anda sonsuz video oynatılmasını sağlayan bir video oynatıcı. Sonsuz döngü, otomatik sessize alma ve arka plan duraklatma, çoklu ekran oynatma, AB tekrarı, rastgele oynatma ve çalma listesi, ve toplu kontrol gibi özelliklerin tadını çıkarın. Odaklı öğrenme, pratik yapma veya favori sahnelerinizi tekrar ziyaret etme için idealdir.",
-  "keywords": "video oynatıcı, sonsuz tekrar, çoklu ekran oynatma, AB tekrar, otomatik sessize alma, arka plan duraklatma, rastgele oynatma, çalma listesi, toplu kontrol"
+  "description": "1-4 ekranlarda aynı anda erotik videolar oynatabilen bir video oynatıcı (tabletlerde 9 ekran destekler). Sonsuz döngü, otomatik sessiz ve arka plan duraklatma, çoklu ekran oynatma, AB döngüsü, rastgele oynatma, çalma listeleri ve grup kontrolü gibi birçok özelliği sunar. Yoğun öğrenme, pratik yapma veya favori sahnelerinizi tekrar izlemek için mükemmel bir araçtır.",
+  "keywords": "erotik, yetişkin, bölünmüş ekran, nsfw, porno, video oynatıcı, sınırsız oynatma, çoklu ekran oynatma, AB döngüsü, otomatik sessiz, arka plan duraklatma, rastgele oynatma, çalma listesi, grup kontrolü"
 };
 
 const jsonUkrainian = {
@@ -2102,8 +2104,8 @@ const jsonUkrainian = {
 };
 
 const jsonUkrainianMeta = {
-  "description": "Відеопрогравач, який дозволяє безкінечне відтворення відео одночасно на до 4 екранах (до 9 екранів на планшетах). Насолоджуйтесь такими функціями, як безкінечний цикл, автоматичне мовчання та зупинка фону, багатоефірне відтворення, AB повтор, випадкове відтворення та плейлист, а також пакетне керування. Ідеально підходить для зосередженого навчання, практики або перегляду улюблених сцен.",
-  "keywords": "відеопрогравач, безкінечне відтворення, багатоефірне відтворення, AB повтор, автоматичне мовчання, зупинка фону, випадкове відтворення, плейлист, пакетне керування"
+  "description": "Відеоплеєр, який може відтворювати еротичні відео на 1-4 екранах одночасно (підтримує до 9 екранів на планшетах). Пропонує різні функції, такі як нескінченний цикл, автоматичне вимкнення звуку і пауза у фоні, відтворення на кількох екранах, цикл AB, випадкове відтворення, списки відтворення і пакетне управління, ідеально підходить для зосередженого навчання, практики або повторного перегляду улюблених сцен.",
+  "keywords": "еротичний, для дорослих, розділений екран, nsfw, порно, відеоплеєр, необмежене відтворення, багатоканальне відтворення, цикл AB, автоматичне вимкнення звуку, пауза у фоні, випадкове відтворення, плейлист, пакетне управління"
 };
 
 // Object to store image URLs for each language
