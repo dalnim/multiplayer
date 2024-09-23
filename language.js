@@ -73,7 +73,7 @@ const jsonKorean = {
   "gallery__nav": "샘플화면",
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
-  "hero_title": "에로틱 멀티 비디오 앱", 
+  "hero_title": "성인용 멀티 비디오 앱", 
   "hero_desc": "한번에 비디오 하나만 본다구요? 한번에 여러개의 비디오들을 동시에 즐기세요.",
   "watch__title": "안전제일! 기본무음",
   "watch__desc": "재생시작시 갑자기 큰소리가 나면 민망하죠? 그래서 기본무음입니다. 백그라운드 전환시에도 자동 재생 중지되구요.",
