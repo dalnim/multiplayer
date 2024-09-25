@@ -710,4 +710,10 @@ footer .copyright__wrapp {
     height: 100%;
 }
 
+.kakao-visible {
+  display: inline-block !important; /* !important를 사용하여 기존 스타일을 덮어씌움 */
+}
 
+.kakao-hidden {
+  display: none !important; /* !important를 사용하여 기존 스타일을 덮어씌움 */
+}
